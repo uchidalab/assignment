@@ -4,14 +4,14 @@ MRI画像の腫瘍の有無による分類をしてみましょう．
 ## データ
 Datasetディレクトリにデータが入っています．  
 > Dataset/  
-> 	├ train.tar.gz  
-> 		├ 0/  
->			├ 1.png  
->			├  :  
->			└   
->		└ 1/  
->	├ val.tar.gz  
->	└ test.tar.gz  
+> 　├ train.tar.gz  
+> 　　　├ 0/  
+> 　　　　　├ 1.png  
+> 　　　　　├  :  
+> 　　　　　└   
+> 　　　└ 1/  
+> 　├ val.tar.gz  
+> 　└ test.tar.gz  
 0が腫瘍無し，1が腫瘍あり画像です．
 
 ## 方法 

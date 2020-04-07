@@ -20,5 +20,15 @@
 ## 提出方法
 まとめたスライドを提出してください．
 
+## 国際会議リスト
+* [CVPR](http://openaccess.thecvf.com/CVPR2019.py): コンピュータビジョンとパターン認識のトップ会議
+* [ICCV](http://openaccess.thecvf.com/ICCV2019.py): コンピュータビジョンのトップ会議（ECCVと隔年開催）
+* [ECCV](http://openaccess.thecvf.com/ECCV2018.py): コンピュータビジョンのトップ会議（ICCVと隔年開催）
+* MICCAI: 医用画像解析のトップ会議（論文は公開されていないので，読みたい方は西村君か林田君に聞いてみてください）
+* [ICASSP](https://ieeexplore.ieee.org/xpl/conhome/8671773/proceeding): 時系列解析，音声処理のトップ会議
+* [NeurIPS](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-32-2019): 機械学習のトップ会議
+* [ICML](http://proceedings.mlr.press/v97/): 機械学習のトップ会議
+* [ICLR](https://openreview.net/group?id=ICLR.cc/2020/Conference): 表現学習を中心とした深層学習のトップ会議
+
 <a name="myfootnote1">1</a>: その分野で重要な論文や自分の研究に強く関連する論文の場合は精読する必要がありますが，今回の課題では必須ではありません．
 

@@ -1,25 +1,50 @@
-# •¶š‰æ‘œ‰ğÍiƒtƒHƒ“ƒg‚ÌˆóÛ•ª—Şj
-ƒtƒHƒ“ƒg‰æ‘œ‚Æ‚»‚ÌˆóÛŒê‚ªŠÖ˜A•t‚¯‚ç‚ê‚½ƒf[ƒ^ƒZƒbƒg‚ğ—p‚¢‚ÄC“Á’è‚ÌˆóÛŒê‚É‘Î‚µCƒtƒHƒ“ƒg‰æ‘œ‚ÌOne-vs-Rest‚Ì2ƒNƒ‰ƒX•ª—Ş‚ğs‚¢‚Ü‚µ‚å‚¤D
+# æ–‡å­—ç”»åƒè§£æï¼ˆãƒ•ã‚©ãƒ³ãƒˆã®å°è±¡åˆ†é¡ï¼‰
+ãƒ•ã‚©ãƒ³ãƒˆç”»åƒã¨ãã®å°è±¡èªãŒé–¢é€£ä»˜ã‘ã‚‰ã‚ŒãŸãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚’ç”¨ã„ã¦ï¼Œç‰¹å®šã®å°è±¡èªã«å¯¾ã—ï¼Œãƒ•ã‚©ãƒ³ãƒˆç”»åƒã®One-vs-Restã®2ã‚¯ãƒ©ã‚¹åˆ†é¡ã‚’è¡Œã„ã¾ã—ã‚‡ã†ï¼
 
-## ƒf[ƒ^ƒZƒbƒg‚Ì€”õ
-1. ˆÈ‰º‚ÌƒŠƒ“ƒN‚©‚ç–{ƒfƒBƒŒƒNƒgƒŠ‚Éƒf[ƒ^ƒZƒbƒg‚ğƒ_ƒEƒ“ƒ[ƒh<br>https://www.cs.rochester.edu/u/tchen45/font/font.html
-2. Dockerfile‚É]‚Á‚ÄŠÂ‹«\’z
-3. preprocess_data.py‚ğÀs
--> dataset/fontimage_preprocessed/‚É‘Oˆ—‚ğ{‚µ‚½ƒtƒHƒ“ƒg‰æ‘œƒf[ƒ^‚ªCfontName_tagWord.csv‚ÉƒtƒHƒ“ƒg‚ÆˆóÛŒã‚ÌŠÖ˜A•t‚¯ƒŠƒXƒg‚ª‚»‚ê‚¼‚ê•Û‘¶‚³‚ê‚éD
+## ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®æº–å‚™
+1. ä»¥ä¸‹ã®ãƒªãƒ³ã‚¯ã‹ã‚‰æœ¬ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰<br>https://www.cs.rochester.edu/u/tchen45/font/font.html
+2. Dockerfileã«å¾“ã£ã¦ç’°å¢ƒæ§‹ç¯‰
+3. preprocess_data.pyã‚’å®Ÿè¡Œ
+-> dataset/fontimage_preprocessed/ã«å‰å‡¦ç†ã‚’æ–½ã—ãŸãƒ•ã‚©ãƒ³ãƒˆç”»åƒãƒ‡ãƒ¼ã‚¿ãŒï¼ŒfontName_tagWord.csvã«ãƒ•ã‚©ãƒ³ãƒˆã¨å°è±¡å¾Œã®é–¢é€£ä»˜ã‘ãƒªã‚¹ãƒˆãŒãã‚Œãã‚Œä¿å­˜ã•ã‚Œã‚‹ï¼
 
-## ƒf[ƒ^ƒZƒbƒg‚ÉŠÖ‚·‚é’ˆÓ–€
-ã‹L‚ÌƒŠƒ“ƒN‚©‚çƒ_ƒEƒ“ƒ[ƒh‚µ‚½ƒf[ƒ^ƒZƒbƒg‚Å‚ÍCtaglabelƒtƒHƒ‹ƒ_‚Éblank file‚ª‚ ‚é‚½‚ßCtaglabel.zip‚ğ‰ğ“€‚µ‚½‚à‚Ì‚Æ’u‚«Š·‚¦‚é
+## ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã«é–¢ã™ã‚‹æ³¨æ„äº‹é …
+ä¸Šè¨˜ã®ãƒªãƒ³ã‚¯ã‹ã‚‰ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ãŸãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã§ã¯ï¼Œtaglabelãƒ•ã‚©ãƒ«ãƒ€ã«blank fileãŒã‚ã‚‹ãŸã‚ï¼Œtaglabel.zipã‚’è§£å‡ã—ãŸã‚‚ã®ã¨ç½®ãæ›ãˆã‚‹
 
-## “à—e
-* ƒf[ƒ^‚ğ”CˆÓ‚ÌŠ„‡i7:3‚È‚Çj‚ÅŠwKƒf[ƒ^‚ÆƒeƒXƒgƒf[ƒ^‚É•ªŠ„
-* ‚ ‚éˆóÛŒê‚ğw’è‚µi"formal"‚È‚ÇjC‚»‚ê‚ÉŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚é‚©”Û‚©‚ğ2’lƒ‰ƒxƒ‹‚Æ‚µ‚ÄƒtƒHƒ“ƒg‰æ‘œ‚ğ¯•Ê‚·‚é‚æ‚¤‚É¯•ÊŠí‚ğŠwK
-* ƒeƒXƒgƒf[ƒ^‚ğ¯•Ê‚µC”F¯—¦‚Æ‚Ç‚Ì‚æ‚¤‚È‰æ‘œ‚ª³‚µ‚­i‚ ‚é‚¢‚ÍŠÔˆá‚Á‚Äj•ª—Ş‚³‚ê‚éŒXŒü‚É‚ ‚é‚©Šm”F‚·‚é
+## å†…å®¹
+* ãƒ‡ãƒ¼ã‚¿ã‚’ä»»æ„ã®å‰²åˆï¼ˆ7:3ãªã©ï¼‰ã§å­¦ç¿’ãƒ‡ãƒ¼ã‚¿ã¨ãƒ†ã‚¹ãƒˆãƒ‡ãƒ¼ã‚¿ã«åˆ†å‰²
+* ã‚ã‚‹å°è±¡èªã‚’æŒ‡å®šã—ï¼ˆ"formal"ãªã©ï¼‰ï¼Œãã‚Œã«é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹ã‹å¦ã‹ã‚’2å€¤ãƒ©ãƒ™ãƒ«ã¨ã—ã¦ãƒ•ã‚©ãƒ³ãƒˆç”»åƒã‚’è­˜åˆ¥ã™ã‚‹ã‚ˆã†ã«è­˜åˆ¥å™¨ã‚’å­¦ç¿’
+* ãƒ†ã‚¹ãƒˆãƒ‡ãƒ¼ã‚¿ã‚’è­˜åˆ¥ã—ï¼Œèªè­˜ç‡ã¨ã©ã®ã‚ˆã†ãªç”»åƒãŒæ­£ã—ãï¼ˆã‚ã‚‹ã„ã¯é–“é•ã£ã¦ï¼‰åˆ†é¡ã•ã‚Œã‚‹å‚¾å‘ã«ã‚ã‚‹ã‹ç¢ºèªã™ã‚‹
 
-## ’ño•û–@
-Œ‹‰Ê‚ğLaTeX‚Å‚Ü‚Æ‚ßCpdf‚Å’ño‚µ‚Ä‚­‚¾‚³‚¢D  
-’ïR‚ª–³‚¯‚ê‚ÎCƒ\[ƒXƒR[ƒh‚ğgithub‚ÉƒAƒbƒvƒ[ƒh‚µ‚Ä‚»‚ÌƒŠƒ“ƒN‚ğ‹³‚¦‚Ä‚­‚¾‚³‚¢D
+## æå‡ºæ–¹æ³•
+çµæœã‚’LaTeXã§ã¾ã¨ã‚ï¼Œpdfã§æå‡ºã—ã¦ãã ã•ã„ï¼  
+æŠµæŠ—ãŒç„¡ã‘ã‚Œã°ï¼Œã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã‚’githubã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ã¦ãã®ãƒªãƒ³ã‚¯ã‚’æ•™ãˆã¦ãã ã•ã„ï¼
 
-## Ql
-–{‰Û‘è‚Í‚â‚â“ïˆÕ“x‚ª‚‚¢‚½‚ßCğ”N“x‘²‹Æ¶‚ªì¬‚µ‚½ƒR[ƒh‚ğ“Y•t‚µ‚Ä‚¢‚Ü‚·ireference.zipjD“ï‚µ‚¯‚ê‚Î‚»‚ê‚ğQl‚ÉÀ‘•‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢D
+## å‚è€ƒ
+æœ¬èª²é¡Œã¯ã‚„ã‚„é›£æ˜“åº¦ãŒé«˜ã„ãŸã‚ï¼Œæ˜¨å¹´åº¦å’æ¥­ç”ŸãŒä½œæˆã—ãŸã‚³ãƒ¼ãƒ‰ã‚’æ·»ä»˜ã—ã¦ã„ã¾ã™ï¼ˆreference.zipï¼‰ï¼é›£ã—ã‘ã‚Œã°ãã‚Œã‚’å‚è€ƒã«å®Ÿè£…ã—ã¦ã¿ã¦ãã ã•ã„ï¼
+
+# Text Image Analysis (Font Impression Classification)
+Using a dataset with associated font images and their impression words, let's perform a two-class One-vs-Rest classification of font images for a particular impression word.
+
+## Preparation of the dataset
+1. Download the dataset from the following link to this directory<br>https://www.cs.rochester.edu/u/tchen45/font/font.html
+2. Build the environment according to the Dockerfile.  
+3. Run preprocess_data.py
+-> the preprocessed font image data, and the list of fonts and their associations after impression will be stored in "dataset/fontimage_preprocessed/" and "fontName_tagWord.csv," respectively.
+
+## Notes on the dataset
+In the dataset downloaded from the link above, there is a blank file in the taglabel folder; so replace it with taglabel.zip after unzipping.
+
+## Contents
+* Split the data into training and test data in arbitrary proportions (e.g. 7:3)
+* Specify an impression word (e.g. "formal"), and train a classifier to identify whether font images are associated with the specified word or not.
+* Classify the test data, and check the recognition rate and what images tend to be classified correctly (or incorrectly).
+
+## How to submit
+Please summarize your results in LaTeX and submit them as a pdf file.  
+If you don't mind, please upload the source code to github and provide the link.
+
+## Reference
+Since this assignment is rather difficult, I have attached the code created by graduates (reference.zip). If you find it difficult, please refer to it and try to implement it.
+
 
 

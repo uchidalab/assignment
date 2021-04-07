@@ -1,42 +1,81 @@
-# 2020”N“x“à“cE”õ£Œ¤Vl‰Û‘è
-Œ¤‹†‚ğ–{Ši“I‚Én‚ß‚é‘O‚Ì€”õ‚Æ‚µ‚Äs‚¤CVl‰Û‘è‚Å‚·D  
-2020”N4Œ20“úiŒj‚ğ’÷‚ßØ‚è‚Æ‚µ‚Ü‚·D
+# 2021å¹´åº¦å†…ç”°ãƒ»å‚™ç€¬ç ”æ–°äººèª²é¡Œ
+English follows Japanese.  
+ç ”ç©¶ã‚’æœ¬æ ¼çš„ã«å§‹ã‚ã‚‹å‰ã®æº–å‚™ã¨ã—ã¦è¡Œã†ï¼Œæ–°äººèª²é¡Œã§ã™ï¼  
+2021å¹´4æœˆ21æ—¥ï¼ˆæ°´ï¼‰ã‚’ç· ã‚åˆ‡ã‚Šã¨ã—ã¾ã™ï¼
 
-## “à—e
-ˆÈ‰º‚Ì5‚Â‚ÌƒR[ƒX‚ğ€”õ‚µ‚Ü‚µ‚½D
-1. ‰æ‘œˆ—‚ÌŠî‘b
-2. ˆã—p‰æ‘œ¯•Ê
-3. Œn—ñ¯•Ê
-4. •¶š‰æ‘œ‰ğÍ
-5. ‘Û‰ï‹c˜_•¶ƒT[ƒxƒC  
+## å†…å®¹
+ä»¥ä¸‹ã®5ã¤ã®ã‚³ãƒ¼ã‚¹ã‚’æº–å‚™ã—ã¾ã—ãŸï¼
+1. ç”»åƒå‡¦ç†ã®åŸºç¤
+2. åŒ»ç”¨ç”»åƒè­˜åˆ¥
+3. æ™‚ç³»åˆ—è­˜åˆ¥
+4. æ–‡å­—ç”»åƒè§£æ
+5. å›½éš›ä¼šè­°è«–æ–‡ã‚µãƒ¼ãƒ™ã‚¤  
 
-‰æ‘œˆ—‚âpython‚ğ—p‚¢‚½ƒvƒƒOƒ‰ƒ~ƒ“ƒO‚É©g‚Ì–³‚¢•û‚Íu1. ‰æ‘œˆ—‚ÌŠî‘bv‚ğ„§‚µ‚Ü‚·D‚Ç‚¿‚ç‚à—]—T‚Æ‚¢‚¤•û‚ÍC2`5‚Ì‚¢‚¸‚ê‚©‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢i‚à‚¿‚ë‚ñ•¡”‚â‚Á‚Ä‚à‚ç‚Á‚Ä‚àOK‚Å‚·jD
+ç”»åƒå‡¦ç†ã‚„pythonã‚’ç”¨ã„ãŸãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã«è‡ªèº«ã®ç„¡ã„æ–¹ã¯ã€Œ1. ç”»åƒå‡¦ç†ã®åŸºç¤ã€ã‚’æ¨å¥¨ã—ã¾ã™ï¼ã©ã¡ã‚‰ã‚‚ä½™è£•ã¨ã„ã†æ–¹ã¯ï¼Œ2ï½5ã®ã„ãšã‚Œã‹ã‚’é¸æŠã—ã¦ãã ã•ã„ï¼ˆã‚‚ã¡ã‚ã‚“è¤‡æ•°ã‚„ã£ã¦ã‚‚ã‚‰ã£ã¦ã‚‚OKã§ã™ï¼‰ï¼
 
-## LaTeX ‚É‚Â‚¢‚Ä
-‰Û‘è‚Ì“à—e‚ÍLaTeX‚ğ—p‚¢‚Ä‚Ü‚Æ‚ßCpdf‚Å’ño‚·‚é‚±‚Æ‚ğŠî–{‚Æ‚µ‚Ü‚·D  
+## LaTeX ã«ã¤ã„ã¦
+èª²é¡Œã®å†…å®¹ã¯LaTeXã‚’ç”¨ã„ã¦ã¾ã¨ã‚ï¼Œpdfã§æå‡ºã™ã‚‹ã“ã¨ã‚’åŸºæœ¬ã¨ã—ã¾ã™ï¼  
 [The LaTeX project](https://www.latex-project.org/)  
-[LaTeX“ü–å](https://texwiki.texjp.org/?LaTeX%E5%85%A5%E9%96%80)   
-### ƒGƒfƒBƒ^‚É‚Â‚¢‚Ä
-Œ¤‹†º‚Ì‘½‚­‚Ìƒƒ“ƒo[‚ªƒIƒ“ƒ‰ƒCƒ“‚Å•ÒW‚Å‚«‚é[Overleaf](https://www.overleaf.com/)‚ğg—p‚µ‚Ä‚¢‚Ü‚·D  
-ƒ[ƒJƒ‹‚Å•ÒW‚·‚éê‡‚ÍC[TeXstudio](https://www.texstudio.org/)C[TeXworks](http://www.tug.org/texworks/)C[VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)‚È‚Ç‚ğg‚¤l‚ª‘½‚¢‚Å‚·D  
-Qlƒeƒ“ƒvƒŒ[ƒg‚Æ‚µ‚Ätex_template.zip‚ğ’u‚¢‚Ä‚¢‚Ü‚·i•Ê‚Ìƒeƒ“ƒvƒŒ[ƒg‚ğg‚Á‚Ä‚à‚ç‚Á‚Ä‚à\‚¢‚Ü‚¹‚ñjD  
+[LaTeXå…¥é–€](https://texwiki.texjp.org/?LaTeX%E5%85%A5%E9%96%80)   
+### ã‚¨ãƒ‡ã‚£ã‚¿ã«ã¤ã„ã¦
+ç ”ç©¶å®¤ã®å¤šãã®ãƒ¡ãƒ³ãƒãƒ¼ãŒã‚ªãƒ³ãƒ©ã‚¤ãƒ³ã§ç·¨é›†ã§ãã‚‹[Overleaf](https://www.overleaf.com/)ã‚’ä½¿ç”¨ã—ã¦ã„ã¾ã™ï¼  
+ãƒ­ãƒ¼ã‚«ãƒ«ã§ç·¨é›†ã™ã‚‹å ´åˆã¯ï¼Œ[TeXstudio](https://www.texstudio.org/)ï¼Œ[TeXworks](http://www.tug.org/texworks/)ï¼Œ[VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)ãªã©ã‚’ä½¿ã†äººãŒå¤šã„ã§ã™ï¼  
+å‚è€ƒãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã¨ã—ã¦tex_template.zipã‚’ç½®ã„ã¦ã„ã¾ã™ï¼ˆåˆ¥ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’ä½¿ã£ã¦ã‚‚ã‚‰ã£ã¦ã‚‚æ§‹ã„ã¾ã›ã‚“ï¼‰ï¼  
 
-## ’ñoæ
-‘uihayashi@ait.kyushu-u.ac.jpj‚Ü‚Åƒ[ƒ‹‚Å’ño‚µ‚Ä‚­‚¾‚³‚¢D
+## æå‡ºå…ˆ
+æ—©å¿—ï¼ˆhayashi@ait.kyushu-u.ac.jpï¼‰ã¾ã§ãƒ¡ãƒ¼ãƒ«ã§æå‡ºã—ã¦ãã ã•ã„ï¼
 
-## Ql‘—¿
-Google colaboratory‚ğ—p‚¢‚Ä[‘wŠwK‚ğg‚¤Û‚ÉQl‚É‚È‚é‘—¿‚ğReferencesƒfƒBƒŒƒNƒgƒŠ‚É’u‚¢‚Ä‚¢‚Ü‚·i”õ£æ¶‚ªì‚Á‚Ä‚­‚¾‚³‚¢‚Ü‚µ‚½jD
+## å‚è€ƒè³‡æ–™
+Google colaboratoryã‚’ç”¨ã„ã¦æ·±å±¤å­¦ç¿’ã‚’ä½¿ã†éš›ã«å‚è€ƒã«ãªã‚‹è³‡æ–™ã‚’Referencesãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç½®ã„ã¦ã„ã¾ã™ï¼ˆå‚™ç€¬å…ˆç”ŸãŒä½œã£ã¦ãã ã•ã„ã¾ã—ãŸï¼‰ï¼
 
-## ƒ[ƒ‹‘—M‚Ì’ˆÓ
-ŠF‚³‚ñŠù‚É‚²‘¶’m‚¾‚Æ‚Ív‚¢‚Ü‚·‚ªCƒ[ƒ‹‘—M‚Ìˆê”Ê“I‚È’ˆÓ“_‚ğ‘‚¢‚Ä‚¨‚«‚Ü‚·D  
-* ‚í‚©‚è‚â‚·‚¢Œ–¼‚ğ‚Â‚¯‚Ü‚µ‚å‚¤iuVl‰Û‘è‚Ì’ñoi–¼jv‚È‚Çj
-* ƒ[ƒ‹1s–Ú‚É‚Íˆ¶–¼‚ğ‘‚«‚Ü‚µ‚å‚¤
-* ‹³ˆõ‚Å‚ ‚ê‚ÎZZæ¶iu`‚Öv‚Í•t‚¯‚È‚¢Cu`‹³öv‚Ì‚æ‚¤‚È–ğEŒÄ‚Ñ‚Í¸—ç‚Èê‡‚à‚ ‚éj
-* ‚»‚êˆÈŠO‚Ìê‡‚ÍZZ—li“Á‚ÉŠO•”‚Ì•ûj‚©ZZ‚³‚ñiæ”y‚È‚Çj
-* ˆ¶–¼‚ÌŒã‚ÉƒRƒƒ“iFj‚âƒJƒ“ƒ}iCj‚ğ‚Â‚¯‚éê‡‚à‚ ‚è‚Ü‚·i‰pŒêƒ[ƒ‹‚Ìê‡•K{j
-* 1s‹ó‚¯‚Ä3s–Ú‚É©•ª‚Ì–¼‘O‚Æ•K—v‚É‰‚¶‚Äˆ¥AiŒ¤‹†º“àƒ[ƒ‹‚Å‚Í•s—vj
-iu‚¨¢˜b‚É‚È‚Á‚Ä‚¨‚è‚Ü‚·v‚ªˆê”Ê“I‚Å‚·‚ª“à•”ƒ[ƒ‹‚Å‚ÍŒ¤‹†º‚âŠé‹Æ‚²‚Æ‚Éƒ[ƒJƒ‹ƒ‹[ƒ‹‚ª‚ ‚Á‚½‚è‚·‚é‚æ‚¤‚Å‚·j
-* ÅŒã‚É–¼‚ğ‚Â‚¯‚Ü‚µ‚å‚¤iƒ[ƒ‰[‚Ì©“®–¼‚Åok‚Å‚·j
-* –Úã‚Ì•û‚©‚ç‚Ìƒ[ƒ‹‚É‚ÍŠî–{“I‚É•ÔM‚µ‚Ü‚µ‚å‚¤i‚¨—ç‚È‚Ç‚²‚­ŠÈ’P‚È‚à‚Ì‚âCƒ[ƒŠƒX‚Ö‚ÌˆêÄ‘—M‚ğœ‚­j
-* ƒŒƒ|[ƒg‚â˜_•¶‚ğŒ©‚Ä‚à‚ç‚¤ê‡C“Y•tƒtƒ@ƒCƒ‹‚Ìƒtƒ@ƒCƒ‹–¼‚É‚Í–¼‘O‚Æ“ú•t‚ğ‘‚«‚Ü‚µ‚å‚¤  
-@¨ ‘²˜_EC˜_Šú‚É‚È‚é‚Æ‹³ˆõ‚Í\”l~C³‰ñ”•ª‚Ì˜_•¶‚ğ•ø‚¦‚é‚±‚Æ‚É‚È‚è‚Ü‚·DuCm˜_•¶.pdfv‚Æ‚¾‚¯‘‚©‚ê‚½ƒtƒ@ƒCƒ‹‚ª‘—‚ç‚ê‚Ä‚àŠÇ—‚Å‚«‚Ü‚¹‚ñD 
+## ãƒ¡ãƒ¼ãƒ«é€ä¿¡æ™‚ã®æ³¨æ„
+çš†ã•ã‚“æ—¢ã«ã”å­˜çŸ¥ã ã¨ã¯æ€ã„ã¾ã™ãŒï¼Œãƒ¡ãƒ¼ãƒ«é€ä¿¡æ™‚ã®ä¸€èˆ¬çš„ãªæ³¨æ„ç‚¹ã‚’æ›¸ã„ã¦ãŠãã¾ã™ï¼  
+* ã‚ã‹ã‚Šã‚„ã™ã„ä»¶åã‚’ã¤ã‘ã¾ã—ã‚‡ã†ï¼ˆã€Œæ–°äººèª²é¡Œã®æå‡ºï¼ˆæ°åï¼‰ã€ãªã©ï¼‰
+* ãƒ¡ãƒ¼ãƒ«1è¡Œç›®ã«ã¯å®›åã‚’æ›¸ãã¾ã—ã‚‡ã†
+* æ•™å“¡ã§ã‚ã‚Œã°ã€‡ã€‡å…ˆç”Ÿï¼ˆã€Œï½ã¸ã€ã¯ä»˜ã‘ãªã„ï¼Œã€Œï½æ•™æˆã€ã®ã‚ˆã†ãªå½¹è·å‘¼ã³ã¯å¤±ç¤¼ãªå ´åˆã‚‚ã‚ã‚‹ï¼‰
+* ãã‚Œä»¥å¤–ã®å ´åˆã¯ã€‡ã€‡æ§˜ï¼ˆç‰¹ã«å¤–éƒ¨ã®æ–¹ï¼‰ã‹ã€‡ã€‡ã•ã‚“ï¼ˆå…ˆè¼©ãªã©ï¼‰
+* å®›åã®å¾Œã«ã‚³ãƒ­ãƒ³ï¼ˆï¼šï¼‰ã‚„ã‚«ãƒ³ãƒï¼ˆï¼Œï¼‰ã‚’ã¤ã‘ã‚‹å ´åˆã‚‚ã‚ã‚Šã¾ã™ï¼ˆè‹±èªãƒ¡ãƒ¼ãƒ«ã®å ´åˆå¿…é ˆï¼‰
+* 1è¡Œç©ºã‘ã¦3è¡Œç›®ã«è‡ªåˆ†ã®åå‰ã¨å¿…è¦ã«å¿œã˜ã¦æŒ¨æ‹¶ï¼ˆç ”ç©¶å®¤å†…ãƒ¡ãƒ¼ãƒ«ã§ã¯ä¸è¦ï¼‰
+ï¼ˆã€ŒãŠä¸–è©±ã«ãªã£ã¦ãŠã‚Šã¾ã™ã€ãŒä¸€èˆ¬çš„ã§ã™ãŒå†…éƒ¨ãƒ¡ãƒ¼ãƒ«ã§ã¯ç ”ç©¶å®¤ã‚„ä¼æ¥­ã”ã¨ã«ãƒ­ãƒ¼ã‚«ãƒ«ãƒ«ãƒ¼ãƒ«ãŒã‚ã£ãŸã‚Šã™ã‚‹ã‚ˆã†ã§ã™ï¼‰
+* æœ€å¾Œã«ç½²åã‚’ã¤ã‘ã¾ã—ã‚‡ã†ï¼ˆãƒ¡ãƒ¼ãƒ©ãƒ¼ã®è‡ªå‹•ç½²åã§okã§ã™ï¼‰
+* ç›¸æ‰‹ï¼ˆç‰¹ã«ç›®ä¸Šã®æ–¹ï¼‰ã‹ã‚‰ã®ãƒ¡ãƒ¼ãƒ«ã«ã¯åŸºæœ¬çš„ã«è¿”ä¿¡ã—ã¾ã—ã‚‡ã†ï¼ˆãŠç¤¼ãªã©ã”ãç°¡å˜ãªã‚‚ã®ã‚„ï¼Œãƒ¡ãƒ¼ãƒªã‚¹ã¸ã®ä¸€æ–‰é€ä¿¡ã‚’é™¤ãï¼‰
+* ãƒ¬ãƒãƒ¼ãƒˆã‚„è«–æ–‡ã‚’è¦‹ã¦ã‚‚ã‚‰ã†å ´åˆï¼Œæ·»ä»˜ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ•ã‚¡ã‚¤ãƒ«åã«ã¯åå‰ã¨æ—¥ä»˜ã‚’æ›¸ãã¾ã—ã‚‡ã†  
+ã€€â†’ å’è«–ãƒ»ä¿®è«–æ™‚æœŸã«ãªã‚‹ã¨æ•™å“¡ã¯åæ•°äººÃ—ä¿®æ­£å›æ•°åˆ†ã®è«–æ–‡ã‚’æŠ±ãˆã‚‹ã“ã¨ã«ãªã‚Šã¾ã™ï¼ã€Œä¿®å£«è«–æ–‡.pdfã€ã¨ã ã‘æ›¸ã‹ã‚ŒãŸãƒ•ã‚¡ã‚¤ãƒ«ãŒé€ã‚‰ã‚Œã¦ã‚‚ç®¡ç†ã§ãã¾ã›ã‚“ï¼
+
+# 2021 Uchida-Bise-Iwana Lab Newcomers' assignment
+This github page is for a newcomers' assignment as a warming-up before starting your research.  
+The deadline is Wednesday, April 21, 2021.
+
+## Contents
+We have following five courses.  
+1. Basics of Image Processing
+2. Medical Image Classification
+3. Time Series Classification
+4. Text Image Analysis
+5. Conference Paper Survey  
+
+If you are not familiar with image processing or python programming, we recommend you to take 1. Basics of Image Processing. Otherwise, choose any of 2&ndash;5.
+
+## About LaTeX
+The paper of this assignment should be written in LaTeX and submitted in pdf format.  
+[The LaTeX project](https://www.latex-project.org/)  
+### About text editors
+Many members of our lab use [Overleaf](https://www.overleaf.com/) for online editing.  
+If you want to edit locally, you can use [TeXstudio](https://www.texstudio.org/), [TeXworks](http://www.tug.org/texworks/), [VSCode](https://code.visualstudio.com/).  
+We have uploaded tex_template.zip as a template (you can use another template if you like).  
+
+## Where to submit
+Please submit your paper to Hayashi (hayashi@ait.kyushu-u.ac.jp) by e-mail.
+
+## Reference materials for Google colab
+Reference materials for using deep learning in Google colaboratory are available in the References directory (created by Prof. Bise).
+
+## Email Etiquette
+Here are some general points to keep in mind when sending emails.  
+* Include a clear, direct subject line (e.g., "Submission of Newcomers' Assignment (Your Name)").
+* Choose an appropriate salutation. If youâ€™re contacting someone for the first time or if they are a professional acquaintance, use a formal greeting like â€œDear Prof./Dr. ***.â€
+* Include a signature block.
+* Respond in a timely fashion.
+* If you are sending a draft of a paper or thesis, include your name and date in the file name of the attached file.  
+ã€€â†’ Faculty members receive a huge number of drafts in the dissertation season. If they receive a file with only "master's thesis.pdf", they cannot manage it.  
+

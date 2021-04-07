@@ -1,34 +1,67 @@
-# ‘Û‰ï‹c˜_•¶ƒT[ƒxƒC
-‹ß”Ni‰ß‹3”N’ö“xj‚Ì‘Û‰ï‹ciƒgƒbƒv‰ï‹c‚ª–]‚Ü‚µ‚¢j‚Å”­•\‚³‚ê‚½•¶Œ£‚ğ5–{ˆÈã“Ç‚İCƒXƒ‰ƒCƒh‚É‚Ü‚Æ‚ß‚Ü‚µ‚å‚¤D
+# å›½éš›ä¼šè­°è«–æ–‡ã‚µãƒ¼ãƒ™ã‚¤
+è¿‘å¹´ï¼ˆéå»3å¹´ç¨‹åº¦ï¼‰ã®å›½éš›ä¼šè­°ï¼ˆãƒˆãƒƒãƒ—ä¼šè­°ãŒæœ›ã¾ã—ã„ï¼‰ã§ç™ºè¡¨ã•ã‚ŒãŸæ–‡çŒ®ã‚’5æœ¬ä»¥ä¸Šèª­ã¿ï¼Œã‚¹ãƒ©ã‚¤ãƒ‰ã«ã¾ã¨ã‚ã¾ã—ã‚‡ã†ï¼
 
-## •¶Œ£‚Ì’T‚µ•û
-* ƒy[ƒW‰º•”‚É–{Œ¤‹†º‚ÉŠÖ˜A‚·‚é‘Û‰ï‹c‚ÌƒŠƒXƒg‚ğÚ‚¹‚Ä‚¢‚Ü‚·‚Ì‚ÅC‚»‚ê‚ğQl‚É‚µ‚Ä‚­‚¾‚³‚¢i•K‚¸‚»‚±‚©‚ç‘I‚×‚Æ‚¢‚¤‚í‚¯‚Å‚Í‚È‚¢‚Å‚·j
-* ‹»–¡‚Ì‚ ‚é•ª–ì‚âƒL[ƒ[ƒh‚ğŒˆ‚ßC‚»‚ê‚ÉŠÖ˜A‚·‚é˜_•¶‚ğ’†S‚É‘I‚Ô‚Æ—Ç‚¢‚Å‚·
+## æ–‡çŒ®ã®æ¢ã—æ–¹
+* ãƒšãƒ¼ã‚¸ä¸‹éƒ¨ã«æœ¬ç ”ç©¶å®¤ã«é–¢é€£ã™ã‚‹å›½éš›ä¼šè­°ã®ãƒªã‚¹ãƒˆã‚’è¼‰ã›ã¦ã„ã¾ã™ã®ã§ï¼Œãã‚Œã‚’å‚è€ƒã«ã—ã¦ãã ã•ã„ï¼ˆå¿…ãšãã“ã‹ã‚‰é¸ã¹ã¨ã„ã†ã‚ã‘ã§ã¯ãªã„ã§ã™ï¼‰
+* èˆˆå‘³ã®ã‚ã‚‹åˆ†é‡ã‚„ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã‚’æ±ºã‚ï¼Œãã‚Œã«é–¢é€£ã™ã‚‹è«–æ–‡ã‚’ä¸­å¿ƒã«é¸ã¶ã¨è‰¯ã„ã§ã™
 
-## •¶Œ£‚Ì“Ç‚İ•û 
-* d—v‚È“_‚ğ‚©‚¢‚Â‚Ü‚ñ‚Å“Ç‚İ‚Ü‚µ‚å‚¤
-* “Ç‚İ•û‚Ì—áF}‚ğ‚´‚Á‚Æ’­‚ß‚é -> Abstract -> Conclusion -> Contributioni‘å‘ÌIntroduction‚ÌÅŒã‚É‘‚¢‚Ä‚ ‚éj-> Method -> Experiments
-* Še˜_•¶‚Å‚¨‚¨‚æ‚»‰½‚ğ‚â‚Á‚Ä‚¢‚é‚©‚ÆC‰½‚ªV‚µ‚¢‚©‚ª•ª‚©‚ê‚Î—Ç‚¢‚Ì‚ÅCˆêŒ¾ˆê‹å‚·‚×‚Ä“Ç‚Ş•K—v‚Í‚ ‚è‚Ü‚¹‚ñ<sup>[1](#myfootnote1)</sup>
-* ‚»‚Ì˜_•¶‚Å’ñˆÄ‚³‚ê‚Ä‚¢‚é‚Ì‚ª‚¨‚¨‚æ‚»‚Ç‚Ì‚æ‚¤‚È‹Zp‚È‚Ì‚©‚ÆC‚»‚ê‚Ì‚Ç‚±‚ªV‚µ‚¢‚Ì‚©‚ª“Á‚Éd—v‚Å‚·
+## æ–‡çŒ®ã®èª­ã¿æ–¹ 
+* é‡è¦ãªç‚¹ã‚’ã‹ã„ã¤ã¾ã‚“ã§èª­ã¿ã¾ã—ã‚‡ã†
+* èª­ã¿æ–¹ã®ä¾‹ï¼šå›³ã‚’ã–ã£ã¨çœºã‚ã‚‹ -> Abstract -> Conclusion -> Contributionï¼ˆå¤§ä½“Introductionã®æœ€å¾Œã«æ›¸ã„ã¦ã‚ã‚‹ï¼‰-> Method -> Experiments
+* å„è«–æ–‡ã§ãŠãŠã‚ˆãä½•ã‚’ã‚„ã£ã¦ã„ã‚‹ã‹ã¨ï¼Œä½•ãŒæ–°ã—ã„ã‹ãŒåˆ†ã‹ã‚Œã°è‰¯ã„ã®ã§ï¼Œä¸€è¨€ä¸€å¥ã™ã¹ã¦èª­ã‚€å¿…è¦ã¯ã‚ã‚Šã¾ã›ã‚“<sup>[1](#myfootnote1)</sup>
+* ãã®è«–æ–‡ã§ææ¡ˆã•ã‚Œã¦ã„ã‚‹ã®ãŒãŠãŠã‚ˆãã©ã®ã‚ˆã†ãªæŠ€è¡“ãªã®ã‹ã¨ï¼Œãã‚Œã®ã©ã“ãŒæ–°ã—ã„ã®ã‹ãŒç‰¹ã«é‡è¦ã§ã™
 
-## ‚Ü‚Æ‚ß•û 
-* 1˜_•¶1ƒXƒ‰ƒCƒh‚Å‚Ü‚Æ‚ß‚Ü‚µ‚å‚¤
-* “Ç‚ñ‚¾˜_•¶‚ğ‘Š‡‚µ‚ÄC‚Ç‚Ì‚æ‚¤‚È‹¤’Ê“_‚ª‚ ‚é‚©‚âCÅ‹ß‚ÌŒ¤‹†‚É‚Ç‚Ì‚æ‚¤‚ÈƒgƒŒƒ“ƒh‚ª‚ ‚é‚©C‘«‚è‚È‚¢“_‚Í‚Ç‚±‚©‚È‚Ç‚ğ‚Ü‚Æ‚ß‚ç‚ê‚é‚Æ‚È‚¨—Ç‚¢‚Å‚·
-* ‹Lq€–Ú‚Ì—áFƒ^ƒCƒgƒ‹C’˜ÒC”­•\‰ï‹c–¼C‘ã•\“I‚È}C˜_•¶‚ÌŠT—vCContribution‚ ‚é‚¢‚ÍV‹K«Cå‚ÈÀŒ±Œ‹‰Ê
-* [‚±‚¿‚ç‚ÌƒTƒCƒg](http://lafrenze.hatenablog.com/entry/2015/08/04/120205)‚ÅĞ‰î‚³‚ê‚Ä‚¢‚éƒtƒH[ƒ}ƒbƒg‚àQl‚É‚È‚è‚Ü‚·
+## ã¾ã¨ã‚æ–¹ 
+* 1è«–æ–‡1ã‚¹ãƒ©ã‚¤ãƒ‰ã§ã¾ã¨ã‚ã¾ã—ã‚‡ã†
+* èª­ã‚“ã è«–æ–‡ã‚’ç·æ‹¬ã—ã¦ï¼Œã©ã®ã‚ˆã†ãªå…±é€šç‚¹ãŒã‚ã‚‹ã‹ã‚„ï¼Œæœ€è¿‘ã®ç ”ç©¶ã«ã©ã®ã‚ˆã†ãªãƒˆãƒ¬ãƒ³ãƒ‰ãŒã‚ã‚‹ã‹ï¼Œè¶³ã‚Šãªã„ç‚¹ã¯ã©ã“ã‹ãªã©ã‚’ã¾ã¨ã‚ã‚‰ã‚Œã‚‹ã¨ãªãŠè‰¯ã„ã§ã™
+* è¨˜è¿°é …ç›®ã®ä¾‹ï¼šã‚¿ã‚¤ãƒˆãƒ«ï¼Œè‘—è€…ï¼Œç™ºè¡¨ä¼šè­°åï¼Œä»£è¡¨çš„ãªå›³ï¼Œè«–æ–‡ã®æ¦‚è¦ï¼ŒContributionã‚ã‚‹ã„ã¯æ–°è¦æ€§ï¼Œä¸»ãªå®Ÿé¨“çµæœ
+* [ã“ã¡ã‚‰ã®ã‚µã‚¤ãƒˆ](http://lafrenze.hatenablog.com/entry/2015/08/04/120205)ã§ç´¹ä»‹ã•ã‚Œã¦ã„ã‚‹ãƒ•ã‚©ãƒ¼ãƒãƒƒãƒˆã‚‚å‚è€ƒã«ãªã‚Šã¾ã™
 
-## ’ño•û–@
-‚Ü‚Æ‚ß‚½ƒXƒ‰ƒCƒh‚ğ’ño‚µ‚Ä‚­‚¾‚³‚¢D
+## æå‡ºæ–¹æ³•
+ã¾ã¨ã‚ãŸã‚¹ãƒ©ã‚¤ãƒ‰ã‚’æå‡ºã—ã¦ãã ã•ã„ï¼
 
-## ‘Û‰ï‹cƒŠƒXƒg
-* [CVPR](http://openaccess.thecvf.com/CVPR2019.py): ƒRƒ“ƒsƒ…[ƒ^ƒrƒWƒ‡ƒ“‚Æƒpƒ^[ƒ“”F¯‚Ìƒgƒbƒv‰ï‹c
-* [ICCV](http://openaccess.thecvf.com/ICCV2019.py): ƒRƒ“ƒsƒ…[ƒ^ƒrƒWƒ‡ƒ“‚Ìƒgƒbƒv‰ï‹ciECCV‚ÆŠu”NŠJÃj
-* [ECCV](http://openaccess.thecvf.com/ECCV2018.py): ƒRƒ“ƒsƒ…[ƒ^ƒrƒWƒ‡ƒ“‚Ìƒgƒbƒv‰ï‹ciICCV‚ÆŠu”NŠJÃj
-* MICCAI: ˆã—p‰æ‘œ‰ğÍ‚Ìƒgƒbƒv‰ï‹ci˜_•¶‚ÍŒöŠJ‚³‚ê‚Ä‚¢‚È‚¢‚Ì‚ÅC“Ç‚İ‚½‚¢•û‚Í¼‘ºŒN‚©—Ñ“cŒN‚É•·‚¢‚Ä‚İ‚Ä‚­‚¾‚³‚¢j
-* [ICASSP](https://ieeexplore.ieee.org/xpl/conhome/8671773/proceeding): Œn—ñ‰ğÍC‰¹ºˆ—‚Ìƒgƒbƒv‰ï‹c
-* [NeurIPS](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-32-2019): ‹@ŠBŠwK‚Ìƒgƒbƒv‰ï‹c
-* [ICML](http://proceedings.mlr.press/v97/): ‹@ŠBŠwK‚Ìƒgƒbƒv‰ï‹c
-* [ICLR](https://openreview.net/group?id=ICLR.cc/2020/Conference): •\Œ»ŠwK‚ğ’†S‚Æ‚µ‚½[‘wŠwK‚Ìƒgƒbƒv‰ï‹c
+## å›½éš›ä¼šè­°ãƒªã‚¹ãƒˆ
+* [CVPR](https://openaccess.thecvf.com/CVPR2020): ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãƒ“ã‚¸ãƒ§ãƒ³ã¨ãƒ‘ã‚¿ãƒ¼ãƒ³èªè­˜ã®ãƒˆãƒƒãƒ—ä¼šè­°
+* [ICCV](http://openaccess.thecvf.com/ICCV2019.py): ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãƒ“ã‚¸ãƒ§ãƒ³ã®ãƒˆãƒƒãƒ—ä¼šè­°ï¼ˆECCVã¨éš”å¹´é–‹å‚¬ï¼‰
+* [ECCV](https://www.ecva.net/papers.php): ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãƒ“ã‚¸ãƒ§ãƒ³ã®ãƒˆãƒƒãƒ—ä¼šè­°ï¼ˆICCVã¨éš”å¹´é–‹å‚¬ï¼‰
+* MICCAI: åŒ»ç”¨ç”»åƒè§£æã®ãƒˆãƒƒãƒ—ä¼šè­°ï¼ˆè«–æ–‡ã¯å…¬é–‹ã•ã‚Œã¦ã„ãªã„ã®ã§ï¼Œèª­ã¿ãŸã„æ–¹ã¯è¥¿æ‘å›ã«èã„ã¦ã¿ã¦ãã ã•ã„ï¼‰
+* [ICASSP](https://ieeexplore.ieee.org/xpl/conhome/9040208/proceeding): æ™‚ç³»åˆ—è§£æï¼ŒéŸ³å£°å‡¦ç†ã®ãƒˆãƒƒãƒ—ä¼šè­°
+* [NeurIPS](https://papers.nips.cc/paper/2020): æ©Ÿæ¢°å­¦ç¿’ã®ãƒˆãƒƒãƒ—ä¼šè­°
+* [ICML](http://proceedings.mlr.press/v97/): æ©Ÿæ¢°å­¦ç¿’ã®ãƒˆãƒƒãƒ—ä¼šè­°
+* [ICLR](https://openreview.net/group?id=ICLR.cc/2021/Conference): è¡¨ç¾å­¦ç¿’ã‚’ä¸­å¿ƒã¨ã—ãŸæ·±å±¤å­¦ç¿’ã®ãƒˆãƒƒãƒ—ä¼šè­°
 
-<a name="myfootnote1">1</a>: ‚»‚Ì•ª–ì‚Åd—v‚È˜_•¶‚â©•ª‚ÌŒ¤‹†‚É‹­‚­ŠÖ˜A‚·‚é˜_•¶‚Ìê‡‚Í¸“Ç‚·‚é•K—v‚ª‚ ‚è‚Ü‚·‚ªC¡‰ñ‚Ì‰Û‘è‚Å‚Í•K{‚Å‚Í‚ ‚è‚Ü‚¹‚ñD
+<a name="myfootnote1">1</a>: ãã®åˆ†é‡ã§é‡è¦ãªè«–æ–‡ã‚„è‡ªåˆ†ã®ç ”ç©¶ã«å¼·ãé–¢é€£ã™ã‚‹è«–æ–‡ã®å ´åˆã¯ç²¾èª­ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ãŒï¼Œä»Šå›ã®èª²é¡Œã§ã¯å¿…é ˆã§ã¯ã‚ã‚Šã¾ã›ã‚“ï¼
+
+# Survey of International Conference Papers
+Read at least 5 papers published at international conferences (preferably top conferences) in recent years (about last 3 years) and summarize them in slides.
+
+## How to find literature.
+* Please refer to the list of international conferences related to our laboratory at the bottom of this page (of course, you choose other conferences).
+* Decide your field of interest and keywords, and choose papers related to them.
+
+## How to read the papers 
+* Pick the important points out and read them.
+* Example of how to read: skim the figures -> Abstract -> Conclusion -> Contribution (usually at the end of Introduction) -> Method -> Experiments
+* You don't need to read every word of each paper because you only need to know roughly what has been done and what is new in each paper<sup>[1](#myfootnote1)</sup>.
+* It is especially important to know roughly what technology is proposed in the paper and what is new about it.
+
+## How to summarize. 
+* Summarize one paper on one slide.
+* It is better to summarize the papers you have read, and analyze what they have in common, what the trends are in recent research, what is missing, etc.
+* Examples of items to be written: title, author, conference name, representative figures, summary of the paper, contribution or novelty, main experimental results.
+
+## How to submit
+Please submit a summary of your slides.
+
+## List of International Conferences
+* [CVPR](https://openaccess.thecvf.com/CVPR2020): Top conference on computer vision and pattern recognition.
+* [ICCV](http://openaccess.thecvf.com/ICCV2019.py): Top conference on computer vision.  
+* [ECCV](https://www.ecva.net/papers.php): Top conference on computer vision (held biennially with ICCV).  
+* [MICCAI]: Top conference on medical image analysis (the papers are not open in public, so if you want to read them, please ask Mr. Nishimura).  
+* [ICASSP](https://ieeexplore.ieee.org/xpl/conhome/9040208/proceeding): Top conference on time series analysis and speech processing.  
+* [NeurIPS](https://papers.nips.cc/paper/2020): top conference on machine learning.  
+* [ICML](http://proceedings.mlr.press/v97/): Top conference on machine learning.  
+* [ICLR](https://openreview.net/group?id=ICLR.cc/2021/Conference): Top conference on deep learning.  
+
+<a name="myfootnote1">1</a>: If the paper is important in your field or strongly related to your research, you need to read it carefully; but it is not required for this assignment.
 

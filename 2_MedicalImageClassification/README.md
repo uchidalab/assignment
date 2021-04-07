@@ -1,30 +1,58 @@
-# ˆã—p‰æ‘œŽ¯•Ê
-MRI‰æ‘œ‚ÌŽîá‡‚Ì—L–³‚É‚æ‚éŽ¯•Ê‚ð‚µ‚Ä‚Ý‚Ü‚µ‚å‚¤D
+# åŒ»ç”¨ç”»åƒè­˜åˆ¥
+MRIç”»åƒã®è…«ç˜ã®æœ‰ç„¡ã«ã‚ˆã‚‹è­˜åˆ¥ã‚’ã—ã¦ã¿ã¾ã—ã‚‡ã†ï¼Ž
 
-## ƒf[ƒ^
-DatasetƒfƒBƒŒƒNƒgƒŠ‚Éƒf[ƒ^‚ª“ü‚Á‚Ä‚¢‚Ü‚·D  
+## ãƒ‡ãƒ¼ã‚¿
+Datasetãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ãƒ‡ãƒ¼ã‚¿ãŒå…¥ã£ã¦ã„ã¾ã™ï¼Ž  
 > Dataset/  
-> @„¥ train.tar.gz  
-> @@@„¥ 0/  
-> @@@@@„¥ 1.png  
-> @@@@@„¥  :  
-> @@@@@„¤   
-> @@@„¤ 1/  
-> @„¥ val.tar.gz  
-> @„¤ test.tar.gz  
-0‚ªŽîá‡–³‚µC1‚ªŽîá‡‚ ‚è‰æ‘œ‚Å‚·D  
+> ã€€â”œ train.tar.gz  
+> ã€€ã€€ã€€â”œ 0/  
+> ã€€ã€€ã€€ã€€ã€€â”œ 1.png  
+> ã€€ã€€ã€€ã€€ã€€â”œ  :  
+> ã€€ã€€ã€€ã€€ã€€â””   
+> ã€€ã€€ã€€â”” 1/  
+> ã€€â”œ val.tar.gz  
+> ã€€â”” test.tar.gz  
+0ãŒè…«ç˜ç„¡ã—ï¼Œ1ãŒè…«ç˜ã‚ã‚Šç”»åƒã§ã™ï¼Ž  
 
-## •û–@ 
-* trainƒfƒBƒŒƒNƒgƒŠ‚É“ü‚Á‚Ä‚¢‚éƒf[ƒ^‚ðŠwKƒf[ƒ^‚Æ‚µ‚ÄCtestƒfƒBƒŒƒNƒgƒŠ‚É“ü‚Á‚Ä‚¢‚éƒf[ƒ^‚Ì”FŽ¯‚ð‚µ‚Ü‚µ‚å‚¤
-* valƒfƒBƒŒƒNƒgƒŠ‚É“ü‚Á‚Ä‚¢‚éƒf[ƒ^‚ÍŒŸØƒf[ƒ^‚Æ‚µ‚Ä—p‚¢Cepoch”‚âƒnƒCƒp[ƒpƒ‰ƒ[ƒ^‚Ì’²®‚ÉŽg‚Á‚Ä‚­‚¾‚³‚¢
-* Ž¯•ÊŠí‚Í‰½‚ðŽg‚Á‚Ä‚àOK‚Å‚·‚µC•¡”ŽŽ‚µ‚Ä‚Ý‚é‚Æ‚È‚¨—Ç‚¢‚Å‚·
-* “Á‚É¡Œã‚Ì‚½‚ß‚ÉCNN‚ÍŽŽ‚µ‚Ä‚Ý‚Ü‚µ‚å‚¤
-* ‚¿‚È‚Ý‚É[VGG-16](https://arxiv.org/abs/1409.1556)‚ð—p‚¢‚Ä85~90%ˆÊ‚Ì”FŽ¯—¦‚Å‚·
+## æ–¹æ³• 
+* trainãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«å…¥ã£ã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ã‚’å­¦ç¿’ãƒ‡ãƒ¼ã‚¿ã¨ã—ã¦ï¼Œtestãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«å…¥ã£ã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ã®èªè­˜ã‚’ã—ã¾ã—ã‚‡ã†
+* valãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«å…¥ã£ã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ã¯æ¤œè¨¼ãƒ‡ãƒ¼ã‚¿ã¨ã—ã¦ç”¨ã„ï¼Œepochæ•°ã‚„ãƒã‚¤ãƒ‘ãƒ¼ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã®èª¿æ•´ã«ä½¿ã£ã¦ãã ã•ã„
+* è­˜åˆ¥å™¨ã¯ä½•ã‚’ä½¿ã£ã¦ã‚‚OKã§ã™ã—ï¼Œè¤‡æ•°è©¦ã—ã¦ã¿ã‚‹ã¨ãªãŠè‰¯ã„ã§ã™
+* ç‰¹ã«ä»Šå¾Œã®ãŸã‚ã«CNNã¯è©¦ã—ã¦ã¿ã¾ã—ã‚‡ã†
+* ã¡ãªã¿ã«[VGG-16](https://arxiv.org/abs/1409.1556)ã‚’ç”¨ã„ã¦85~90%ä½ã®èªè­˜çŽ‡ã§ã™
 
-## ’ño•û–@ 
-* ˆÈ‰º‚Ì“à—e‚ð‚ðtex‚Å‚Ü‚Æ‚ß‚Äpdf‚Å’ño‚µ‚Ä‚­‚¾‚³‚¢
-	* •K{F—p‚¢‚½Žè–@‚Ì“à—e‚Æ”FŽ¯—¦C¬“¯s—ñ
-	* „§F³‰ðE•s³‰ð‚µ‚½‰æ‘œ‚ÌŒXŒü‰ðÍ
-* ’ïR‚ª–³‚¯‚ê‚ÎCƒ\[ƒXƒR[ƒh‚ðgithub‚ÉƒAƒbƒvƒ[ƒh‚µ‚Ä‚»‚ÌƒŠƒ“ƒN‚ð‹³‚¦‚Ä‚­‚¾‚³‚¢
+## æå‡ºæ–¹æ³• 
+* ä»¥ä¸‹ã®å†…å®¹ã‚’ã‚’texã§ã¾ã¨ã‚ã¦pdfã§æå‡ºã—ã¦ãã ã•ã„
+	* å¿…é ˆï¼šç”¨ã„ãŸæ‰‹æ³•ã®å†…å®¹ã¨èªè­˜çŽ‡ï¼Œæ··åŒè¡Œåˆ—
+	* æŽ¨å¥¨ï¼šæ­£è§£ãƒ»ä¸æ­£è§£ã—ãŸç”»åƒã®å‚¾å‘è§£æž
+* æŠµæŠ—ãŒç„¡ã‘ã‚Œã°ï¼Œã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã‚’githubã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ã¦ãã®ãƒªãƒ³ã‚¯ã‚’æ•™ãˆã¦ãã ã•ã„
 
+# Medical Image Classification
+Classify MRI images by the presence or absence of tumors.
+
+## Dataset
+The dataset is stored in the Dataset directory.  
+> Dataset/  
+> ã€€â”œ train.tar.gz  
+> ã€€ã€€ã€€â”œ 0/  
+> ã€€ã€€ã€€ã€€ã€€â”œ 1.png  
+> ã€€ã€€ã€€ã€€ã€€â”œ  :  
+> ã€€ã€€ã€€ã€€ã€€â””   
+> ã€€ã€€ã€€â”” 1/  
+> ã€€â”œ val.tar.gz  
+> ã€€â”” test.tar.gz  
+0 is no tumor, 1 is with tumor.  
+
+## Method 
+* Use the data in the train directory as training data to classify the data in the test directory.  
+* Use the data in the val directory as validation data to adjust the number of epochs and hyperparameters.  
+* You can use any classifier, and it is even better to try multiple ones!  
+* If you try multiple classifiers, it is strongly recommended to include a convolutional neural network.  
+* FYI: The recognition rate is about 85~90% using [VGG-16](https://arxiv.org/abs/1409.1556).
+
+## How to submit 
+* Write a paper using LaTeX and submit it in a pdf file with the following information.
+	* Required: description of the method used, recognition rate, confusion matrix.  
+	* Recommended: Detailed analysis of results (e.g., trend analysis of correct/incorrect images).  
+* If you don't mind, please upload the source code to github and provide the link to it.
 

@@ -1,41 +1,85 @@
-# Œn—ñ¯•Ê
-Œn—ñiŠÔ‚Æ‚Æ‚à‚É•Ï‰»‚·‚é”gŒ`j‚Ì¯•Ê‚ğ‚µ‚Ä‚İ‚Ü‚µ‚å‚¤D
+# æ™‚ç³»åˆ—è­˜åˆ¥
+æ™‚ç³»åˆ—ï¼ˆæ™‚é–“ã¨ã¨ã‚‚ã«å¤‰åŒ–ã™ã‚‹æ³¢å½¢ï¼‰ã®è­˜åˆ¥ã‚’ã—ã¦ã¿ã¾ã—ã‚‡ã†ï¼
 
-## ƒf[ƒ^
-level1`level4‚Ì4í—Ş—pˆÓ‚µ‚Ä‚¢‚Ü‚·DŠelevel‚É‚Íreference‚Ætest‚Ì2í—ŞƒtƒHƒ‹ƒ_‚ª‚ ‚èC‚»‚ê‚¼‚ê‚É*.dat‚Æ‚¢‚¤–¼‘O‚ÅŒn—ñƒf[ƒ^‚ª“ü‚Á‚Ä‚¢‚Ü‚·iƒ^ƒu‹æØ‚èƒeƒLƒXƒg‚Å‚·jDreference: Šî€ƒf[ƒ^‚Æ‚µ‚ÄCˆÙ‚È‚éƒNƒ‰ƒXi‘®«j‚Ì2í—Ş‚Ìƒf[ƒ^‚ª“ü‚Á‚Ä‚¢‚Ü‚·i1.dat‚ªƒNƒ‰ƒX1C2.dat‚ªƒNƒ‰ƒX2jD”gŒ`‚ğŒ©‚ê‚Îˆá‚¤«¿‚Ìƒf[ƒ^‚Å‚ ‚é‚±‚Æ‚ª‚í‚©‚é‚Æv‚¢‚Ü‚·D  
-test: ƒ‰ƒ“ƒ_ƒ€‚È‡”Ô‚ÅƒNƒ‰ƒX1‚©ƒNƒ‰ƒX2‚Ç‚¿‚ç‚©‚É‘®‚·‚éƒf[ƒ^‚ª“ü‚Á‚Ä‚¢‚Ü‚·i”Ô†‚ÆƒNƒ‰ƒX‚Í–³ŠÖŒWjD  
-referenceƒtƒHƒ‹ƒ_“à‚Ì”gŒ`‚ğŠî€‚É‚µ‚ÄtestƒtƒHƒ‹ƒ_“à‚ÌŠe”gŒ`‚Æ‚Ì‹——£‚ğDP‚ÅŒvZ‚µCtestƒtƒHƒ‹ƒ_“à‚ÌŠeƒf[ƒ^ƒtƒ@ƒCƒ‹‚ª‚Ç‚¿‚ç‚ÌƒNƒ‰ƒX‚©“–‚Ä‚éƒQ[ƒ€‚Å‚·D  
+## ãƒ‡ãƒ¼ã‚¿
+level1ï½level4ã®4ç¨®é¡ç”¨æ„ã—ã¦ã„ã¾ã™ï¼å„levelã«ã¯referenceã¨testã®2ç¨®é¡ãƒ•ã‚©ãƒ«ãƒ€ãŒã‚ã‚Šï¼Œãã‚Œãã‚Œã«*.datã¨ã„ã†åå‰ã§æ™‚ç³»åˆ—ãƒ‡ãƒ¼ã‚¿ãŒå…¥ã£ã¦ã„ã¾ã™ï¼ˆã‚¿ãƒ–åŒºåˆ‡ã‚Šãƒ†ã‚­ã‚¹ãƒˆã§ã™ï¼‰ï¼reference: åŸºæº–ãƒ‡ãƒ¼ã‚¿ã¨ã—ã¦ï¼Œç•°ãªã‚‹ã‚¯ãƒ©ã‚¹ï¼ˆå±æ€§ï¼‰ã®2ç¨®é¡ã®ãƒ‡ãƒ¼ã‚¿ãŒå…¥ã£ã¦ã„ã¾ã™ï¼ˆ1.datãŒã‚¯ãƒ©ã‚¹1ï¼Œ2.datãŒã‚¯ãƒ©ã‚¹2ï¼‰ï¼æ³¢å½¢ã‚’è¦‹ã‚Œã°é•ã†æ€§è³ªã®ãƒ‡ãƒ¼ã‚¿ã§ã‚ã‚‹ã“ã¨ãŒã‚ã‹ã‚‹ã¨æ€ã„ã¾ã™ï¼  
+test: ãƒ©ãƒ³ãƒ€ãƒ ãªé †ç•ªã§ã‚¯ãƒ©ã‚¹1ã‹ã‚¯ãƒ©ã‚¹2ã©ã¡ã‚‰ã‹ã«å±ã™ã‚‹ãƒ‡ãƒ¼ã‚¿ãŒå…¥ã£ã¦ã„ã¾ã™ï¼ˆç•ªå·ã¨ã‚¯ãƒ©ã‚¹ã¯ç„¡é–¢ä¿‚ï¼‰ï¼  
+referenceãƒ•ã‚©ãƒ«ãƒ€å†…ã®æ³¢å½¢ã‚’åŸºæº–ã«ã—ã¦testãƒ•ã‚©ãƒ«ãƒ€å†…ã®å„æ³¢å½¢ã¨ã®è·é›¢ã‚’DPã§è¨ˆç®—ã—ï¼Œtestãƒ•ã‚©ãƒ«ãƒ€å†…ã®å„ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ãŒã©ã¡ã‚‰ã®ã‚¯ãƒ©ã‚¹ã‹å½“ã¦ã‚‹ã‚²ãƒ¼ãƒ ã§ã™ï¼  
 
-### ƒlevel1„
-‰Á‘¬“xŒv‚ğ˜r‚É‚Â‚¯‚ÄU‚Á‚½‚ÌŒv‘ªƒf[ƒ^‚Å‚·D  
-Œn—ñ’·‚ª30‚ÅŒÅ’è‚³‚ê‚½1ŸŒ³”gŒ`‚Æ‚È‚Á‚Ä‚¢‚Ü‚·D  
-³‚µ‚­ŒvZ‚·‚ê‚Î100%³‰ğ‰Â”\‚Èƒf[ƒ^‚Å‚·D  
+### ï¼œlevel1ï¼
+åŠ é€Ÿåº¦è¨ˆã‚’è…•ã«ã¤ã‘ã¦æŒ¯ã£ãŸæ™‚ã®è¨ˆæ¸¬ãƒ‡ãƒ¼ã‚¿ã§ã™ï¼  
+æ™‚ç³»åˆ—é•·ãŒ30ã§å›ºå®šã•ã‚ŒãŸ1æ¬¡å…ƒæ³¢å½¢ã¨ãªã£ã¦ã„ã¾ã™ï¼  
+æ­£ã—ãè¨ˆç®—ã™ã‚Œã°100%æ­£è§£å¯èƒ½ãªãƒ‡ãƒ¼ã‚¿ã§ã™ï¼  
 
-### ƒlevel2„
-level1‚Æ“¯‚¶‰Á‘¬“xƒf[ƒ^‚Å‚·‚ªC3ŸŒ³”gŒ`‚Æ‚È‚Á‚Ä‚¢‚Ü‚·‚Ì‚Å‹——£ŒvZ‚ğƒxƒNƒgƒ‹‚Ål‚¦‚é•K—v‚ª‚ ‚è‚Ü‚·D  
-Œn—ñ’·‚Í30‚ÅŒÅ’è‚Å‚·D  
+### ï¼œlevel2ï¼
+level1ã¨åŒã˜åŠ é€Ÿåº¦ãƒ‡ãƒ¼ã‚¿ã§ã™ãŒï¼Œ3æ¬¡å…ƒæ³¢å½¢ã¨ãªã£ã¦ã„ã¾ã™ã®ã§è·é›¢è¨ˆç®—ã‚’ãƒ™ã‚¯ãƒˆãƒ«ã§è€ƒãˆã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ï¼  
+æ™‚ç³»åˆ—é•·ã¯30ã§å›ºå®šã§ã™ï¼  
 
-### ƒlevel3„
-reference‚Ílevel2‚Æ“¯‚¶ƒf[ƒ^‚Å‚·‚ªCtestƒf[ƒ^‚ªƒ‰ƒ“ƒ_ƒ€‚ÉŠÔˆø‚«‚³‚ê‚½‚è‰„’·‚³‚ê‚½‚è‚µ‚Ä‚¢‚Ü‚·D  
-Œn—ñ’·‚ğ‰Â•Ï‚É‚µ‚Äl‚¦‚é•K—v‚ª‚ ‚è‚Ü‚·D  
+### ï¼œlevel3ï¼
+referenceã¯level2ã¨åŒã˜ãƒ‡ãƒ¼ã‚¿ã§ã™ãŒï¼Œtestãƒ‡ãƒ¼ã‚¿ãŒãƒ©ãƒ³ãƒ€ãƒ ã«é–“å¼•ãã•ã‚ŒãŸã‚Šå»¶é•·ã•ã‚ŒãŸã‚Šã—ã¦ã„ã¾ã™ï¼  
+æ™‚ç³»åˆ—é•·ã‚’å¯å¤‰ã«ã—ã¦è€ƒãˆã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ï¼  
 
-### ƒlevel4„
-level1`3‚Æ‚Í‚©‚È‚è«¿‚ªˆá‚Á‚Ä‚¨‚èCÀ‘Ì‚Í”]”gƒf[ƒ^‚Å‚·D  
-level3‚Ü‚Å‚Æ‘å‚«‚­ˆÙ‚È‚é“_‚ÍˆÈ‰º‚Ì2“_‚Å‚·D  
-1. Œn—ñ’·256‚ÅŒÅ’è‚Ì64ŸŒ³”gŒ`F  
-@ŒvZ—Ê‚ª‚©‚È‚è‘½‚­‚È‚é‚Ì‚Å“K“–‚ÉŠÔˆø‚«‚âŸŒ³‘I‘ğ/ˆ³k‚ğ‚·‚é•K—v‚ª‚ ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñD  
-2. reference‚ÉŠeƒNƒ‰ƒX3‚Â‚Ìƒf[ƒ^‚ğ—pˆÓF  
-@reference“à‚ÌƒtƒHƒ‹ƒ_1‚ªƒNƒ‰ƒX1CƒtƒHƒ‹ƒ_2‚ªƒNƒ‰ƒX2‚Ìƒf[ƒ^‚Å‚·D  
-@ŠeƒNƒ‰ƒX‚Å“K“–‚É1‚Â‚¸‚Â‘I‚ñ‚Å‚à‚¢‚¢‚Å‚·‚µC•½‹Ï‚ğ‚Æ‚é‚È‚Ç‚µ‚Ä3‚Â‚ğ‚¤‚Ü‚­‘g‚İ‡‚í‚¹‚Äg‚Á‚Ä‚àok‚Å‚·D  
-‚±‚Ìƒf[ƒ^ƒZƒbƒg‚ÍƒŠƒJƒŒƒ“ƒgƒjƒ…[ƒ‰ƒ‹ƒlƒbƒgƒ[ƒN‚ğg‚Á‚Ä‚à90%‹­‚µ‚©³‰ğ‚Å‚«‚È‚¢“ïˆÕ“x‚Æ‚È‚Á‚Ä‚¢‚Ü‚·D  
+### ï¼œlevel4ï¼
+level1ï½3ã¨ã¯ã‹ãªã‚Šæ€§è³ªãŒé•ã£ã¦ãŠã‚Šï¼Œå®Ÿä½“ã¯è„³æ³¢ãƒ‡ãƒ¼ã‚¿ã§ã™ï¼  
+level3ã¾ã§ã¨å¤§ããç•°ãªã‚‹ç‚¹ã¯ä»¥ä¸‹ã®2ç‚¹ã§ã™ï¼  
+1. æ™‚ç³»åˆ—é•·256ã§å›ºå®šã®64æ¬¡å…ƒæ³¢å½¢ï¼š  
+ã€€è¨ˆç®—é‡ãŒã‹ãªã‚Šå¤šããªã‚‹ã®ã§é©å½“ã«é–“å¼•ãã‚„æ¬¡å…ƒé¸æŠ/åœ§ç¸®ã‚’ã™ã‚‹å¿…è¦ãŒã‚ã‚‹ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ï¼  
+2. referenceã«å„ã‚¯ãƒ©ã‚¹3ã¤ã®ãƒ‡ãƒ¼ã‚¿ã‚’ç”¨æ„ï¼š  
+ã€€referenceå†…ã®ãƒ•ã‚©ãƒ«ãƒ€1ãŒã‚¯ãƒ©ã‚¹1ï¼Œãƒ•ã‚©ãƒ«ãƒ€2ãŒã‚¯ãƒ©ã‚¹2ã®ãƒ‡ãƒ¼ã‚¿ã§ã™ï¼  
+ã€€å„ã‚¯ãƒ©ã‚¹ã§é©å½“ã«1ã¤ãšã¤é¸ã‚“ã§ã‚‚ã„ã„ã§ã™ã—ï¼Œå¹³å‡ã‚’ã¨ã‚‹ãªã©ã—ã¦3ã¤ã‚’ã†ã¾ãçµ„ã¿åˆã‚ã›ã¦ä½¿ã£ã¦ã‚‚okã§ã™ï¼  
+ã“ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã¯ãƒªã‚«ãƒ¬ãƒ³ãƒˆãƒ‹ãƒ¥ãƒ¼ãƒ©ãƒ«ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã‚’ä½¿ã£ã¦ã‚‚90%å¼·ã—ã‹æ­£è§£ã§ããªã„é›£æ˜“åº¦ã¨ãªã£ã¦ã„ã¾ã™ï¼  
 
-‚Ğ‚Æ‚Ü‚¸³‰ğ‚Í”ñŒöŠJ‚Æ‚µ‚Ä‚¨‚«‚Ü‚·i”gŒ`‚ğŒ©‚ê‚Î–¾‚ç‚©‚È‚à‚Ì‚à‚ ‚è‚Ü‚·‚ªjD  
-‰ñ“š‚ğ’ño‚µ‚Ä‚­‚ê‚ê‚Î³‰ğ—¦‚ğ•Ô‹p‚µ‚Ü‚·D  
+ã²ã¨ã¾ãšæ­£è§£ã¯éå…¬é–‹ã¨ã—ã¦ãŠãã¾ã™ï¼ˆæ³¢å½¢ã‚’è¦‹ã‚Œã°æ˜ã‚‰ã‹ãªã‚‚ã®ã‚‚ã‚ã‚Šã¾ã™ãŒï¼‰ï¼  
+å›ç­”ã‚’æå‡ºã—ã¦ãã‚Œã‚Œã°æ­£è§£ç‡ã‚’è¿”å´ã—ã¾ã™ï¼  
 
-## ”F¯è–@
-Dynamic time warping (DTW)‚ğ‹——£Ú“x‚Æ‚µ‚Ä—p‚¢‚½k-nearest neighbor‚ğg‚Á‚Ä‚İ‚é‚±‚Æ‚ğ‚¨Š©‚ß‚µ‚Ü‚·D‚Ü‚¸‚Íscikit-learn‚È‚Ç‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ğ—p‚¢‚ÄÀ‘•‚µ‚Ä‚İ‚ÄC‚»‚ÌŒãCŠ®‘SƒXƒNƒ‰ƒbƒ`‚ÅDTW‚ğÀ‘•‚µ‚Ä‚İ‚é‚Æ—Ç‚¢‚Æv‚¢‚Ü‚·D‚Ü‚½CLSTM‚Ì‚æ‚¤‚Èrecurrent neural network‚Æ”äŠr‚µ‚Ä‚İ‚é‚±‚Æ‚ğ‚¨Š©‚ß‚µ‚Ü‚·D
+## èªè­˜æ‰‹æ³•
+Dynamic time warping (DTW)ã‚’è·é›¢å°ºåº¦ã¨ã—ã¦ç”¨ã„ãŸk-nearest neighborã‚’ä½¿ã£ã¦ã¿ã‚‹ã“ã¨ã‚’ãŠå‹§ã‚ã—ã¾ã™ï¼ã¾ãšã¯scikit-learnãªã©ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ç”¨ã„ã¦å®Ÿè£…ã—ã¦ã¿ã¦ï¼Œãã®å¾Œï¼Œå®Œå…¨ã‚¹ã‚¯ãƒ©ãƒƒãƒã§DTWã‚’å®Ÿè£…ã—ã¦ã¿ã‚‹ã¨è‰¯ã„ã¨æ€ã„ã¾ã™ï¼ã¾ãŸï¼ŒLSTMã®ã‚ˆã†ãªrecurrent neural networkã¨æ¯”è¼ƒã—ã¦ã¿ã‚‹ã“ã¨ã‚’ãŠå‹§ã‚ã—ã¾ã™ï¼
 
-## ’ño•û–@
-g‚Á‚½è–@‚ÌÚ×‚ğLaTeX‚Å‚Ü‚Æ‚ßpdf‚Å’ño‚µ‚Ä‚­‚¾‚³‚¢D  
-‚Ü‚½C‰ñ“š‚ª’m‚è‚½‚¢•û‚ÍCcsv‚Å”F¯Œ‹‰Ê‚ğ’ño‚µ‚Ä‚­‚¾‚³‚¢D  
-’ïR‚ª–³‚¯‚ê‚ÎCƒ\[ƒXƒR[ƒh‚ğgithub‚ÉƒAƒbƒvƒ[ƒh‚µ‚Ä‚»‚ÌƒŠƒ“ƒN‚ğ‹³‚¦‚Ä‚­‚¾‚³‚¢D
+## æå‡ºæ–¹æ³•
+ä½¿ã£ãŸæ‰‹æ³•ã®è©³ç´°ã‚’LaTeXã§ã¾ã¨ã‚pdfã§æå‡ºã—ã¦ãã ã•ã„ï¼  
+ã¾ãŸï¼Œå›ç­”ãŒçŸ¥ã‚ŠãŸã„æ–¹ã¯ï¼Œcsvã§èªè­˜çµæœã‚’æå‡ºã—ã¦ãã ã•ã„ï¼  
+æŠµæŠ—ãŒç„¡ã‘ã‚Œã°ï¼Œã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã‚’githubã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ã¦ãã®ãƒªãƒ³ã‚¯ã‚’æ•™ãˆã¦ãã ã•ã„ï¼
+
+# Time series classification
+Classify time series data.  
+
+## Dataset
+We have four types of datasets from level1 to level4. Each level has two folders, reference and test, each containing time series data named *.dat (tab-delimited text).   
+The reference contains two types of reference data for different classes (attributes) (1.dat and 2.dat are for classes 1 and 2, respectively). You can see from the waveforms that they have different properties.  
+The test contains data belonging to either class 1 or class 2 in a random order.  
+Use dynamic programming to calculate the distance between the waveform in the reference folder and each waveform in the test folder, and estimate which class each data file in the test folder belongs to.  
+
+### level1
+This is the data measured by shaking an accelerometer on your arm.  
+It is a 1D waveform with a fixed time series length of 30.  
+The recognition accuracy can be 100% if you calculate the distances correctly.  
+
+### level2
+This is the same acceleration data as level1, but it is a 3D waveform, so you need to consider the distance calculation as a vector.  
+The time series length is fixed at 30.  
+
+### level3
+The reference is the same data as level2, but the test data is randomly resampled or extended.  
+It is necessary to consider a variable time series length.  
+
+### level4
+The nature of this dataset is quite different from level1&ndash;3. This is EEG data.  
+The following two points are the major differences from level1&ndash;3.  
+1. 64-dimensional waveform with a fixed time series length of 256.  
+ã€€You may need to do some resampling or dimension selection/compression to save the computational costs.  
+2. Three samples are prepared for each class in the reference dir.  
+ã€€Directories 1 and 2 are for classes 1 and 2, respectively.  
+ã€€Process reference samples appropriately, e.g., you can choose one sample for each class, or combine three samples by taking the average.  
+FYI: The recognition accuracy is about 90% with a recurrent neural network.  
+
+The correct answers will be kept secret for now (although some of them are obvious from the waveforms).  
+If you submit your answers, I will return the recognition accuracy.  
+
+## Recognition method
+I recommend you to use k-nearest neighbor using dynamic time warping (DTW) as a distance measure. First, you can implement it using a library such as scikit-learn, and then try to implement DTW completely from scratch. It is also recommended to compare it with recurrent neural networks such as an LSTM.
+
+## How to submit
+Summarize the details of the method using LaTeX and submit in a pdf file.  
+If you want to know the answer, please submit the recognition results in a csv format.  
+If you don't mind, please upload the source code to github and provide the link to it.
+

@@ -1,20 +1,42 @@
-# ‰æ‘œˆ—‚ÌŠî‘b
-‰æ‘œˆ—‚ÌŠî‘b‚ÆCpython‚É‚æ‚éƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ÌŠî–{‚ğŠw‚Ñ‚Ü‚µ‚å‚¤D
+# ç”»åƒå‡¦ç†ã®åŸºç¤
+ç”»åƒå‡¦ç†ã®åŸºç¤ã¨ï¼Œpythonã«ã‚ˆã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã®åŸºæœ¬ã‚’å­¦ã³ã¾ã—ã‚‡ã†ï¼
 
-## “à—e
-0. python+OpenCV‚ÌƒvƒƒOƒ‰ƒ~ƒ“ƒOŠÂ‹«\’z
-	* •s–¾‚È“_‚Íæ”y‚É‚Ç‚ñ‚Ç‚ñ•·‚«‚Ü‚µ‚å‚¤
-1. numpy‚ğg‚Á‚½s—ñ‚Ìl‘¥‰‰Z
-	* ”’l‚ÍŠe©“K“–‚É‘I‚ñ‚Å‚­‚¾‚³‚¢D
-	* s—ñ‚Ìl‘¥‰‰Z‚ÌŒ‹‰Ê‚ğcopy & paste‚©screenshot‚µ‚Ä‚­‚ê‚ê‚Îok‚Å‚·D 
-2. ‰æ‘œ‚Ì•\¦Ck¬Šg‘åC‰ñ“]C“ñ’l‰»
-	* ‰æ‘œ‚ÍŠe©“K“–‚É‘I‚ñ‚Å‚­‚¾‚³‚¢
-3. 2–‡‚ÌˆÙ‚È‚é‰æ‘œ‚Ì·•ª‰æ‘œì¬
-	* ·•ª‚Ì•ª‚©‚è‚â‚·‚¢‰æ‘œ‚ğ‘I‚Ñ‚Ü‚µ‚å‚¤
-4. ‰æ‘œ‚Ì“Á’¥—Ê’Šo‚Æ}¦
-	* ƒqƒXƒgƒOƒ‰ƒ€CSURF‚È‚ÇFX‚µ‚Ä‚İ‚Ü‚µ‚å‚¤
-	* ˆÙ‚È‚é‰æ‘œ‚Ì“Á’¥—Ê‚Ì”äŠr‚ğ‚·‚é‚Æ—Ç‚¢‚Å‚·
+## å†…å®¹
+0. python+OpenCVã®ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ç’°å¢ƒæ§‹ç¯‰
+	* ä¸æ˜ãªç‚¹ã¯å…ˆè¼©ã«ã©ã‚“ã©ã‚“èãã¾ã—ã‚‡ã†
+1. numpyã‚’ä½¿ã£ãŸè¡Œåˆ—ã®å››å‰‡æ¼”ç®—
+	* æ•°å€¤ã¯å„è‡ªé©å½“ã«é¸ã‚“ã§ãã ã•ã„ï¼
+	* è¡Œåˆ—ã®å››å‰‡æ¼”ç®—ã®çµæœã‚’copy & pasteã‹screenshotã—ã¦ãã‚Œã‚Œã°okã§ã™ï¼ 
+2. ç”»åƒã®è¡¨ç¤ºï¼Œç¸®å°æ‹¡å¤§ï¼Œå›è»¢ï¼ŒäºŒå€¤åŒ–
+	* ç”»åƒã¯å„è‡ªé©å½“ã«é¸ã‚“ã§ãã ã•ã„
+3. 2æšã®ç•°ãªã‚‹ç”»åƒã®å·®åˆ†ç”»åƒä½œæˆ
+	* å·®åˆ†ã®åˆ†ã‹ã‚Šã‚„ã™ã„ç”»åƒã‚’é¸ã³ã¾ã—ã‚‡ã†
+4. ç”»åƒã®ç‰¹å¾´é‡æŠ½å‡ºã¨å›³ç¤º
+	* ãƒ’ã‚¹ãƒˆã‚°ãƒ©ãƒ ï¼ŒSURFãªã©è‰²ã€…è©¦ã—ã¦ã¿ã¾ã—ã‚‡ã†
+	* ç•°ãªã‚‹ç”»åƒã®ç‰¹å¾´é‡ã®æ¯”è¼ƒã‚’ã™ã‚‹ã¨è‰¯ã„ã§ã™
 
-## ’ño•û–@
-LaTeX‚ğg‚Á‚Äpdfƒtƒ@ƒCƒ‹‚É‚Ü‚Æ‚ß’ño‚µ‚Ä‚­‚¾‚³‚¢D  
-’ïR‚ª–³‚¯‚ê‚ÎCƒ\[ƒXƒR[ƒh‚ğgithub‚ÉƒAƒbƒvƒ[ƒh‚µ‚Ä‚»‚ÌƒŠƒ“ƒN‚ğ‹³‚¦‚Ä‚­‚¾‚³‚¢
+## æå‡ºæ–¹æ³•
+LaTeXã‚’ä½¿ã£ã¦pdfãƒ•ã‚¡ã‚¤ãƒ«ã«ã¾ã¨ã‚æå‡ºã—ã¦ãã ã•ã„ï¼  
+æŠµæŠ—ãŒç„¡ã‘ã‚Œã°ï¼Œã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã‚’githubã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ã¦ãã®ãƒªãƒ³ã‚¯ã‚’æ•™ãˆã¦ãã ã•ã„
+
+# Basics of Image Processing 
+Learn the basics of image processing and programming in python.
+
+## Contents
+0. Build python+OpenCV programming environment  
+	* If you have any questions, please feel free to ask your colleagues.  
+1. Matrix arithmetic using numpy (addition, subtraction, multiplication, and division)  
+	* You can set the values of matrix as you like.  
+	* You can copy & paste or screenshot the result of the matrix arithmetic.  
+2. Display, scale, rotate, and binarize images  
+	* You can choose any image you like.  
+3. Create a difference image of two different images  
+	* Choose images with a clear difference.  
+4. Extraction and visualization of image features.  
+	* Try various methods such as Histogram, SURF, etc.
+	* It is a good idea to compare the feature values of different images
+
+## How to submit
+Write a paper using LaTeX and submit it in a pdf file.  
+If you don't mind, upload the source code to github and send me the link.
+

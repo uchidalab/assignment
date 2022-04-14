@@ -44,8 +44,8 @@ The dataset is stored in the Dataset directory.
 0 is no tumor, 1 is with tumor.  
 
 ## Method 
-* Use the data in the train directory as training data to classify the data in the test directory.  
-* Use the data in the val directory as validation data to adjust the number of epochs and hyperparameters.  
+* Use data in the train directory as training data to classify data in the test directory.  
+* Use data in the val directory as validation data to adjust the number of epochs and hyperparameters.  
 * You can use any classifier, and it is even better to try multiple ones!  
 * If you try multiple classifiers, it is strongly recommended to include a convolutional neural network.  
 * FYI: The recognition rate is about 85~90% using [VGG-16](https://arxiv.org/abs/1409.1556).

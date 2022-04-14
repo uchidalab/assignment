@@ -20,7 +20,7 @@
 抵抗が無ければ，ソースコードをgithubにアップロードしてそのリンクを教えてください．
 
 ## 参考
-本課題はやや難易度が高いため，昨年度卒業生が作成したコードを添付しています（reference.zip）．難しければそれを参考に実装してみてください．
+本課題はやや難易度が高いため，卒業生が作成したコードを添付しています（reference.zip）．難しければそれを参考に実装してみてください．
 
 # Text Image Analysis (Font Impression Classification)
 Using a dataset with associated font images and their impression words, let's perform a two-class One-vs-Rest classification of font images for a particular impression word.
@@ -44,7 +44,7 @@ Please summarize your results in LaTeX and submit them as a pdf file.
 If you don't mind, please upload the source code to github and provide the link.
 
 ## Reference
-Since this assignment is rather difficult, I have attached the code created by graduates (reference.zip). If you find it difficult, please refer to it and try to implement it.
+Since this assignment is rather difficult, I have attached the code created by an alumnus (reference.zip). If you find it difficult, please refer to it and try to implement it.
 
 
 

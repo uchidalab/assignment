@@ -1,7 +1,7 @@
-# 2021年度内田・備瀬・Iwana研新人課題
+# 2022年度内田・備瀬・Iwana研新人課題
 English follows Japanese.  
 研究を本格的に始める前の準備として行う，新人課題です．  
-2021年4月21日（水）を締め切りとします．
+2022年4月25日（月）を締め切りとします．
 
 ## 内容
 以下の5つのコースを準備しました．
@@ -42,9 +42,9 @@ Google colaboratoryを用いて深層学習を使う際に参考になる資料�
 * レポートや論文を見てもらう場合，添付ファイルのファイル名には名前と日付を書きましょう  
 　→ 卒論・修論時期になると教員は十数人×修正回数分の論文を抱えることになります．「修士論文.pdf」とだけ書かれたファイルが送られても管理できません．
 
-# 2021 Uchida-Bise-Iwana Lab Newcomers' assignment
+# 2022 Uchida-Bise-Iwana Lab Newcomers' assignment
 This github page is for a newcomers' assignment as a warming-up before starting your research.  
-The deadline is Wednesday, April 21, 2021.
+The deadline is Wednesday, April 25, 2022.
 
 ## Contents
 We have following five courses.  
@@ -54,7 +54,7 @@ We have following five courses.
 4. Text Image Analysis
 5. Conference Paper Survey  
 
-If you are not familiar with image processing or python programming, we recommend you to take 1. Basics of Image Processing. Otherwise, choose any of 2&ndash;5.
+If you are not familiar with image processing or python programming, we recommend that you take 1. Basics of Image Processing. Otherwise, choose any of 2&ndash;5.
 
 ## About LaTeX
 The paper of this assignment should be written in LaTeX and submitted in pdf format.  

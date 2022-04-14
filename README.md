@@ -44,7 +44,7 @@ Google colaboratoryを用いて深層学習を使う際に参考になる資料�
 
 # 2022 Uchida-Bise-Iwana Lab Newcomers' assignment
 This github page is for a newcomers' assignment as a warming-up before starting your research.  
-The deadline is Wednesday, April 25, 2022.
+The deadline is April 25, 2022.
 
 ## Contents
 We have following five courses.  

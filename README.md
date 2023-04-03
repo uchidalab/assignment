@@ -1,7 +1,7 @@
-# 2022年度内田・備瀬・Iwana研新人課題
+# 内田・備瀬・Iwana研新人課題
 English follows Japanese.  
 研究を本格的に始める前の準備として行う，新人課題です．  
-2022年4月25日（月）を締め切りとします．
+2023年4月25日（火）を締め切りとします．
 
 ## 内容
 以下の5つのコースを準備しました．
@@ -23,7 +23,7 @@ English follows Japanese.
 参考テンプレートとしてtex_template.zipを置いています（別のテンプレートを使ってもらっても構いません）．  
 
 ## 提出先
-早志（hayashi@ait.kyushu-u.ac.jp）までメールで提出してください．
+博士学生（d@human.ait.kyushu-u.ac.jp）までメールで提出してください．
 
 ## 参考資料
 Google colaboratoryを用いて深層学習を使う際に参考になる資料をReferencesディレクトリに置いています（備瀬先生が作ってくださいました）．

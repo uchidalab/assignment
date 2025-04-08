@@ -4,16 +4,18 @@
 ## 内容
 0. python+pytorchのプログラミング環境構築
     * labwikiの環境構築を参考にしましょう
-1. pytorch tutorialを参考にした深層学習の実装
+1. 深層学習の基本
 	* (pytorch turorial)[https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html] を参考にpytorchを使った深層学習やその実験の流れを確認しましょう
-	* 
-2. 
+	* Fashion-MNISTというデータを分類するモデルの構築ができれば目標達成です！
+2. 深層学習の応用
+    * 1. のプログラムを基に自分なりの工夫をして精度改善を行ってみましょう．
+    * ヒント: Networkの層数を増やす，データ拡張，転移学習などなど
 
 ## 提出方法
 LaTeXを使ってpdfファイルにまとめ提出してください．  
 抵抗が無ければ，ソースコードをgithubにアップロードしてそのリンクを教えてください
 
-<!-- 英語はまだ修正前です
+<!-- 英語はまだ修正してないです
 # Basics of Image Processing 
 Learn the basics of image processing and programming in python.
 

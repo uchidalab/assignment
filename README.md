@@ -1,17 +1,17 @@
 # 内田・備瀬・Iwana・末廣研新人課題
 English follows Japanese.  
 研究を本格的に始める前の準備として行う，新人課題です．  
-2024年4月26日（金）を締め切りとします．
+2025年x月xx日（x）を締め切りとします．
 
 ## 内容
 以下の5つのコースを準備しました．
-1. 画像処理の基礎
+1. 深層学習の基礎
 2. 医用画像識別
 3. 時系列識別
 4. 文字画像解析
 5. 国際会議論文サーベイ  
 
-画像処理やpythonを用いたプログラミングに自身の無い方は「1. 画像処理の基礎」を推奨します．どちらも余裕という方は，2～5のいずれかを選択してください（もちろん複数やってもらってもOKです）．
+深層学習に関するプログラミングが初めての方は「1. 深層学習の基礎」を推奨します．どちらも余裕という方は，2～5のいずれかを選択してください（もちろん複数やってもらってもOKです）．
 
 ## LaTeX について
 課題の内容はLaTeXを用いてまとめ，pdfで提出することを基本とします．  
@@ -42,7 +42,7 @@ Google colaboratoryを用いて深層学習を使う際に参考になる資料�
 * レポートや論文を見てもらう場合，添付ファイルのファイル名には名前と日付を書きましょう  
 　→ 卒論・修論時期になると教員は十数人×修正回数分の論文を抱えることになります．「修士論文.pdf」とだけ書かれたファイルが送られても管理できません．
 
-# 2024 Uchida-Bise-Iwana-Suehiro Lab Newcomers' assignment
+<!-- # 2024 Uchida-Bise-Iwana-Suehiro Lab Newcomers' assignment
 This github page is for a newcomers' assignment as a warming-up before starting your research.  
 The deadline is April 26, 2024.
 
@@ -77,5 +77,5 @@ Here are some general points to keep in mind when sending emails.
 * Include a signature block.
 * Respond in a timely fashion.
 * If you are sending a draft of a paper or thesis, include your name and date in the file name of the attached file.  
-　→ Faculty members receive a huge number of drafts in the dissertation season. If they receive a file with only "master's thesis.pdf", they cannot manage it.  
+　→ Faculty members receive a huge number of drafts in the dissertation season. If they receive a file with only "master's thesis.pdf", they cannot manage it.   -->
 

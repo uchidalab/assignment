@@ -8,7 +8,7 @@
 	* (pytorch turorial)[https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html] を参考にpytorchを使った深層学習やその実験の流れを確認しましょう
 	* Fashion-MNISTというデータを分類するモデルの構築ができれば目標達成です！
 2. 深層学習の応用
-    * 1. のプログラムを基に自分なりの工夫をして精度改善を行ってみましょう．
+    * 「1. 深層学習の基本」のプログラムを基に自分なりの工夫をして精度改善を行ってみましょう．
     * ヒント: Networkの層数を増やす，データ拡張，転移学習などなど
 
 ## 提出方法

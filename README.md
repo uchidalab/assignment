@@ -42,7 +42,7 @@ Google colaboratoryを用いて深層学習を使う際に参考になる資料�
 * レポートや論文を見てもらう場合，添付ファイルのファイル名には名前と日付を書きましょう  
 　→ 卒論・修論時期になると教員は十数人×修正回数分の論文を抱えることになります．「修士論文.pdf」とだけ書かれたファイルが送られても管理できません．
 
-<!-- # 2024 Uchida-Bise-Iwana-Suehiro Lab Newcomers' assignment
+# 2024 Uchida-Bise-Iwana-Suehiro Lab Newcomers' assignment
 This github page is for a newcomers' assignment as a warming-up before starting your research.  
 The deadline is April 26, 2024.
 
@@ -77,5 +77,5 @@ Here are some general points to keep in mind when sending emails.
 * Include a signature block.
 * Respond in a timely fashion.
 * If you are sending a draft of a paper or thesis, include your name and date in the file name of the attached file.  
-　→ Faculty members receive a huge number of drafts in the dissertation season. If they receive a file with only "master's thesis.pdf", they cannot manage it.   -->
+　→ Faculty members receive a huge number of drafts in the dissertation season. If they receive a file with only "master's thesis.pdf", they cannot manage it.  
 

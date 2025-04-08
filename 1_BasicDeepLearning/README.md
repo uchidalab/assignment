@@ -5,7 +5,7 @@
 0. python+pytorchのプログラミング環境構築
     * labwikiの環境構築を参考にしましょう
 1. 深層学習の基本
-	* (pytorch turorial)[https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html] を参考にpytorchを使った深層学習やその実験の流れを確認しましょう
+	* [pytorch turorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) を参考にpytorchを使った深層学習の実装の流れを確認しましょう
 	* Fashion-MNISTというデータを分類するモデルの構築ができれば目標達成です！
 2. 深層学習の応用
     * 「1. 深層学習の基本」のプログラムを基に自分なりの工夫をして精度改善を行ってみましょう．

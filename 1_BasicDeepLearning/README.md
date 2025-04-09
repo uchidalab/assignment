@@ -1,7 +1,7 @@
 # 深層学習の基礎
 深層学習の基礎と，[pytorch](https://pytorch.org/)の基本を学びましょう．
 
-## 方法
+## 内容
 0. python+pytorchのプログラミング環境構築
     * [labwiki](https://sites.google.com/human.ait.kyushu-u.ac.jp/labwiki/home)もしくは先輩方に聞きながら環境構築を行いましょう
     * Dockerを使った環境構築がおすすめです．[こちら](https://github.com/Kkun84/NvidiaDocker)が参考になると思います．
@@ -13,10 +13,10 @@
     * 「1. 深層学習の基本」のプログラムを基に自分なりの工夫をして精度改善を行ってみましょう．
     * ヒント: Networkの層数を増やす，データ拡張，転移学習などなど
 
-## 提出物に含める内容（この他の内容を書いていただいても構いません）
-* 実験条件
-* 学習結果（学習曲線，混同行列，精度表）
-* 「2. 深層学習の応用」での工夫点
+## 提出物（この他の内容を書いていただいても構いません）
+* 「2. 深層学習の応用」での工夫点やその他考察
+* 実験条件（データセット，学習時に使ったパラメータなど）
+* 学習結果（精度の比較，学習曲線，混同行列など）
 
 ## 提出方法
 LaTeXを使ってpdfファイルにまとめ提出してください．  
@@ -34,6 +34,11 @@ Learn the basics of deep learning and programming using [pytorch](https://pytorc
 2. Applications of Deep Learning  
 	* Based on the program from ``1. Basics of Deep Learning'' try to improve accuracy with your own ideas and modifications. 
     * Hints: Increase the number of network layers, use data augmentation, apply transfer learning, etc.
+
+## Report
+* Key ideas and additional insights in ``. Applications of Deep Learnin''
+* Experimental setup (e.g., dataset, training parameters, etc.)
+* Training results (e.g., accuracy comparison, learning curves, confusion matrix, etc.)
 
 ## How to submit
 Write a paper using LaTeX and submit it in a pdf file.  

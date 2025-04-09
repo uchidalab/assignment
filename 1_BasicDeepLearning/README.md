@@ -28,6 +28,8 @@ Learn the basics of deep learning and programming using [pytorch](https://pytorc
 ## Contents
 0. Build python+pytorch programming environment  
 	* If you have any questions, please check [labwiki](https://sites.google.com/human.ait.kyushu-u.ac.jp/labwiki/home) or feel free to ask your colleagues.  
+    * We recommend using Docker for the environment setup. [This repository](https://github.com/Kkun84/NvidiaDocker) may be helpful.
+    * **Although Anaconda is a well-known virtual environment, please refrain from using it.**
 1. Basics of deep learning
 	* Check the implementation workflow of deep learning using PyTorch by referring to the [pytorch turorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html)
 	* The goal is to build a model that classifies the Fashion-MNIST dataset. 

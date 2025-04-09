@@ -23,7 +23,7 @@ English follows Japanese.
 参考テンプレートとしてtex_template.zipを置いています（別のテンプレートを使ってもらっても構いません）．  
 
 ## 提出先
-週報グループのM2以上の学生にメールで提出してください．(メールアドレスは各自で聞いてください)
+週報グループのM2以上の学生にメールもしくはSlackで提出してください．
 
 ## 参考資料
 Google colaboratoryを用いて深層学習を使う際に参考になる資料をReferencesディレクトリに置いています（備瀬先生が作ってくださいました）．
@@ -66,7 +66,7 @@ If you want to edit locally, you can use [TeXstudio](https://www.texstudio.org/)
 We have uploaded tex_template.zip as a template (you can use another template if you like).  
 
 ## Where to submit
-Please submit your paper to Hayashi (hayashi@ait.kyushu-u.ac.jp) by e-mail.
+Please submit your paper to weekly reports group's members who are in M2 (second year of master's program) or above via email or Slack.
 
 ## Reference materials for Google colab
 Reference materials for using deep learning in Google colaboratory are available in the References directory (created by Prof. Bise).

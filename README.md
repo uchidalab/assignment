@@ -42,19 +42,20 @@ Google colaboratoryを用いて深層学習を使う際に参考になる資料�
 * レポートや論文を見てもらう場合，添付ファイルのファイル名には名前と日付を書きましょう  
 　→ 卒論・修論時期になると教員は十数人×修正回数分の論文を抱えることになります．「修士論文.pdf」とだけ書かれたファイルが送られても管理できません．
 
-# 2024 Uchida-Bise-Iwana-Suehiro Lab Newcomers' assignment
+# 2025 Uchida-Bise-Iwana-Suehiro Lab Newcomers' assignment
 This github page is for a newcomers' assignment as a warming-up before starting your research.  
-The deadline is April 26, 2024.
+The deadline is xxx xxx, 2025.
 
 ## Contents
 We have following five courses.  
-1. Basics of Image Processing
+0. Basics of Image Processing
+1. Basics of Deep Learning
 2. Medical Image Classification
 3. Time Series Classification
 4. Text Image Analysis
 5. Conference Paper Survey  
 
-If you are not familiar with image processing or python programming, we recommend that you take 1. Basics of Image Processing. Otherwise, choose any of 2&ndash;5.
+If you are not familiar with python programming about deep learning, we recommend that you take 1. Basics of Deep Learning. Otherwise, choose any of 2&ndash;5.
 
 ## About LaTeX
 The paper of this assignment should be written in LaTeX and submitted in pdf format.  

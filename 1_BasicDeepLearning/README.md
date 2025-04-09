@@ -1,16 +1,22 @@
 # 深層学習の基礎
 深層学習の基礎と，[pytorch](https://pytorch.org/)の基本を学びましょう．
 
-## 内容
+## 方法
 0. python+pytorchのプログラミング環境構築
     * [labwiki](https://sites.google.com/human.ait.kyushu-u.ac.jp/labwiki/home)もしくは先輩方に聞きながら環境構築を行いましょう
     * Dockerを使った環境構築がおすすめです．[こちら](https://github.com/Kkun84/NvidiaDocker)が参考になると思います．
+    * **有名な仮想環境としてanacondaがありますが使用は控えてください．**
 1. 深層学習の基本
 	* [pytorch turorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) を参考にpytorchを使った深層学習の実装の流れを確認しましょう
 	* Fashion-MNISTというデータを分類するモデルの構築ができれば目標達成です！
 2. 深層学習の応用
     * 「1. 深層学習の基本」のプログラムを基に自分なりの工夫をして精度改善を行ってみましょう．
     * ヒント: Networkの層数を増やす，データ拡張，転移学習などなど
+
+## 提出物に含める内容（この他の内容を書いていただいても構いません）
+* 実験条件
+* 学習結果（学習曲線，混同行列，精度表）
+* 「2. 深層学習の応用」での工夫点
 
 ## 提出方法
 LaTeXを使ってpdfファイルにまとめ提出してください．  

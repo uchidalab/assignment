@@ -38,7 +38,7 @@ Learn the basics of deep learning and programming using [pytorch](https://pytorc
     * Hints: Increase the number of network layers, use data augmentation, apply transfer learning, etc.
 
 ## Report
-* Key ideas and additional insights in ``. Applications of Deep Learnin''
+* Key ideas and additional insights in ""Applications of Deep Learnin""
 * Experimental setup (e.g., dataset, training parameters, etc.)
 * Training results (e.g., accuracy comparison, learning curves, confusion matrix, etc.)
 

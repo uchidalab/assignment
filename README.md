@@ -48,7 +48,6 @@ The deadline is xxx xxx, 2025.
 
 ## Contents
 We have following five courses.  
-0. Basics of Image Processing
 1. Basics of Deep Learning
 2. Medical Image Classification
 3. Time Series Classification

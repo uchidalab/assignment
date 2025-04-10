@@ -1,7 +1,7 @@
 # 内田・備瀬・Iwana・末廣研新人課題
 English follows Japanese.  
 研究を本格的に始める前の準備として行う，新人課題です．  
-2025年x月xx日（x）を締め切りとします．
+2025年5月2日（金）を締め切りとします．
 
 ## 内容
 以下の5つのコースを準備しました．
@@ -44,7 +44,7 @@ Google colaboratoryを用いて深層学習を使う際に参考になる資料�
 
 # 2025 Uchida-Bise-Iwana-Suehiro Lab Newcomers' assignment
 This github page is for a newcomers' assignment as a warming-up before starting your research.  
-The deadline is xxx xxx, 2025.
+The deadline is 2nd May, 2025.
 
 ## Contents
 We have following five courses.  

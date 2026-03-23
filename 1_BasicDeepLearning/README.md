@@ -5,7 +5,7 @@
 0. python+pytorchのプログラミング環境構築
     * [labwiki](https://sites.google.com/human.ait.kyushu-u.ac.jp/labwiki/home)もしくは先輩方に聞きながら環境構築を行いましょう
     * Dockerを使った環境構築がおすすめです．[こちら](https://github.com/Kkun84/NvidiaDocker)が参考になると思います．
-    * **有名な仮想環境としてanacondaがありますが使用は控えてください．**
+    * **有名な仮想環境としてanacondaがありますが使用は控えてください（Condaを使い場合はMinicondaをお使いください）**
 1. 深層学習の基本
 	* [pytorch turorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) を参考にpytorchを使った深層学習の実装の流れを確認しましょう
 	* Fashion-MNISTというデータを分類するモデルの構築ができれば目標達成です！

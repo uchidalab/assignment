@@ -5,7 +5,7 @@
 0. python+pytorchのプログラミング環境構築
     * [labwiki](https://sites.google.com/human.ait.kyushu-u.ac.jp/labwiki/home)もしくは先輩方に聞きながら環境構築を行いましょう
     * Dockerを使った環境構築がおすすめです．[こちら](https://github.com/Kkun84/NvidiaDocker)が参考になると思います．
-    * **有名な仮想環境としてanacondaがありますが使用は控えてください（Condaを使い場合はMinicondaをお使いください）**
+    * **有名な仮想環境としてanacondaがありますが使用は控えてください**（Condaを使い場合は[Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) をお使いください）
 1. 深層学習の基本
 	* [pytorch turorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) を参考にpytorchを使った深層学習の実装の流れを確認しましょう
 	* Fashion-MNISTというデータを分類するモデルの構築ができれば目標達成です！
@@ -29,7 +29,7 @@ Learn the basics of deep learning and programming using [pytorch](https://pytorc
 0. Build python+pytorch programming environment  
 	* If you have any questions, please check [labwiki](https://sites.google.com/human.ait.kyushu-u.ac.jp/labwiki/home) or feel free to ask your colleagues.  
     * We recommend using Docker for the environment setup. [This repository](https://github.com/Kkun84/NvidiaDocker) may be helpful.
-    * **Although Anaconda is a well-known virtual environment, please refrain from using it.**
+    * **Although Anaconda is a well-known virtual environment, please refrain from using it.** (Please use [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) instead of anaconda)
 1. Basics of deep learning
 	* Check the implementation workflow of deep learning using PyTorch by referring to the [pytorch turorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html)
 	* The goal is to build a model that classifies the Fashion-MNIST dataset. 

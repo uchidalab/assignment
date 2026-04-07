@@ -1,7 +1,7 @@
 # 内田・備瀬・Iwana・末廣研新人課題
 English follows Japanese.  
 研究を本格的に始める前の準備として行う，新人課題です．  
-2025年5月2日（金）を締め切りとします．
+2026年5月1日（金）を締め切りとします．
 
 ## 内容
 以下の5つのコースを準備しました．
@@ -42,9 +42,9 @@ Google colaboratoryを用いて深層学習を使う際に参考になる資料�
 * レポートや論文を見てもらう場合，添付ファイルのファイル名には名前と日付を書きましょう  
 　→ 卒論・修論時期になると教員は十数人×修正回数分の論文を抱えることになります．「修士論文.pdf」とだけ書かれたファイルが送られても管理できません．
 
-# 2025 Uchida-Bise-Iwana-Suehiro Lab Newcomers' assignment
+# 2026 Uchida-Bise-Iwana-Suehiro Lab Newcomers' assignment
 This github page is for a newcomers' assignment as a warming-up before starting your research.  
-The deadline is 2nd May, 2025.
+The deadline is 1st May, 2026.
 
 ## Contents
 We have following five courses.  
